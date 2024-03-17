@@ -1,10 +1,15 @@
 name: Update awesome list
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
-
+  watch:
+    types: [started]
+    
 jobs:
   build:
     runs-on: ubuntu-latest
