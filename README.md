@@ -5,7 +5,7 @@
 ⭐ 我的star列表，每天自动更新 ⭐
 
 <div style="width:auto;margin: 0 auto;">
-  <a href="https://rsshub.app/github/starred_repos/rcy1314"  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
+  <a href="https://rsshub.app/github/starred_repos/maxzhang666"  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
 </div>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
@@ -1100,5 +1100,3 @@
 ## Blade
 
 *   [laravel-admin-extensions/api-tester](https://github.com/laravel-admin-extensions/api-tester) - API tester for laravel-admin
-
-*   By [rcy1314/some-starts](https://github.com/rcy1314/some-stars)
