@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -38,10 +39,27 @@
 *   [Objective-C](#objective-c)
 *   [Vim Script](#vim-script)
 *   [MDX](#mdx)
-*   [HTML](#html)
 *   [Perl](#perl)
 *   [PowerShell](#powershell)
 *   [Blade](#blade)
+
+## HTML
+
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+
+*   [lanhebe/proxypool](https://github.com/lanhebe/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每小时更新
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+*   [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
+
+*   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
+
+*   [bharadwajpro/m3u8-player](https://github.com/bharadwajpro/m3u8-player) - M3U8 Player in browser. Play any live stream m3u8 link with this website at https://bharadwajpro.github.io/m3u8-player
 
 ## Go
 
@@ -198,8 +216,6 @@
 *   [Alivon/Panda-Learning](https://github.com/Alivon/Panda-Learning) - 已终止该项目
 
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [fecommunity/front-end-interview](https://github.com/fecommunity/front-end-interview) - 前端面试宝典，收集整理了全网最新、最全面的面试资料，帮助各位求职面试者斩获理想Offer。
 
 ## TypeScript
 
@@ -1072,22 +1088,6 @@
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-
-## HTML
-
-*   [lanhebe/proxypool](https://github.com/lanhebe/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每小时更新
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-*   [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-*   [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
-
-*   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
-
-*   [bharadwajpro/m3u8-player](https://github.com/bharadwajpro/m3u8-player) - M3U8 Player in browser. Play any live stream m3u8 link with this website at https://bharadwajpro.github.io/m3u8-player
 
 ## Perl
 
