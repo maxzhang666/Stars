@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -23,7 +24,6 @@
 *   [Dart](#dart)
 *   [C#](#c)
 *   [Swift](#swift)
-*   [PHP](#php)
 *   [Java](#java)
 *   [HTML](#html)
 *   [CSS](#css)
@@ -41,6 +41,72 @@
 *   [MDX](#mdx)
 *   [Perl](#perl)
 *   [PowerShell](#powershell)
+
+## PHP
+
+*   [youyingxiang/Discover](https://github.com/youyingxiang/Discover) - Discover 是一个基于 Dcat-admin 开发的进销存系统
+
+*   [LyLme/lylme\_spage](https://github.com/LyLme/lylme_spage) - 六零导航页
+
+*   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
+
+*   [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
+
+*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+
+*   [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) - Free and open-source webshop solution for hostings
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+
+*   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
+
+*   [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
+
+*   [5ime/API-Admin](https://github.com/5ime/API-Admin) - API 网站内容管理系统 内置 20+ API 接口
+
+*   [5ime/video\_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
+
+*   [RavanH/xml-sitemap-feed](https://github.com/RavanH/xml-sitemap-feed) - XML Sitemap & Google News feeds
+
+*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+
+*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
+
+*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
+
+*   [witersen/SvnAdminV2.0](https://github.com/witersen/SvnAdminV2.0) - 基于web的SVN管理系统，支持HTTP协议、SVN协议、支持LDAP认证、Docker部署
+
+*   [ChenSee/ChenPay](https://github.com/ChenSee/ChenPay) -  Composer 免签约支付宝与微信，直接到个人账户，持续维护，PHP实现免签约支付接口，判断订单号与备注，自带监听。
+
+*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+
+*   [MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。
+
+*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
+
+*   [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme) - CorePress 主题，一款高性能，高颜值的WordPress主题
+
+*   [lizhipay/faka](https://github.com/lizhipay/faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码
+
+*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
+
+*   [TideSec/WDScanner](https://github.com/TideSec/WDScanner) - WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
+
+*   [Seaony/Hunt](https://github.com/Seaony/Hunt) - This is laravel 5.5 + pjax the Hunt
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [likeyun/WeChat-Group-HuoMa](https://github.com/likeyun/WeChat-Group-HuoMa) - 微信群二维码活码工具，生成微信群活码，随时可以切换二维码！
+
+*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
+
+*   [namet117/socialite](https://github.com/namet117/socialite) - 社会化登陆，微信、新浪微博、Github、百度、QQ、OSChina
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
 ## TypeScript
 
@@ -176,7 +242,7 @@
 
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
-*   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 
 *   [EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
 
@@ -860,70 +926,6 @@
 
 *   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 
-## PHP
-
-*   [LyLme/lylme\_spage](https://github.com/LyLme/lylme_spage) - 六零导航页
-
-*   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
-
-*   [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
-
-*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-
-*   [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) - Free and open-source webshop solution for hostings
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-
-*   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
-
-*   [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
-
-*   [5ime/API-Admin](https://github.com/5ime/API-Admin) - API 网站内容管理系统 内置 20+ API 接口
-
-*   [5ime/video\_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
-
-*   [RavanH/xml-sitemap-feed](https://github.com/RavanH/xml-sitemap-feed) - XML Sitemap & Google News feeds
-
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-
-*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
-
-*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
-
-*   [witersen/SvnAdminV2.0](https://github.com/witersen/SvnAdminV2.0) - 基于web的SVN管理系统，支持HTTP协议、SVN协议、支持LDAP认证、Docker部署
-
-*   [ChenSee/ChenPay](https://github.com/ChenSee/ChenPay) -  Composer 免签约支付宝与微信，直接到个人账户，持续维护，PHP实现免签约支付接口，判断订单号与备注，自带监听。
-
-*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
-
-*   [MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。
-
-*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
-
-*   [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme) - CorePress 主题，一款高性能，高颜值的WordPress主题
-
-*   [lizhipay/faka](https://github.com/lizhipay/faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码
-
-*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
-
-*   [TideSec/WDScanner](https://github.com/TideSec/WDScanner) - WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
-
-*   [Seaony/Hunt](https://github.com/Seaony/Hunt) - This is laravel 5.5 + pjax the Hunt
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [likeyun/WeChat-Group-HuoMa](https://github.com/likeyun/WeChat-Group-HuoMa) - 微信群二维码活码工具，生成微信群活码，随时可以切换二维码！
-
-*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
-
-*   [namet117/socialite](https://github.com/namet117/socialite) - 社会化登陆，微信、新浪微博、Github、百度、QQ、OSChina
-
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
 ## Java
 
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
@@ -983,8 +985,6 @@
 *   [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 
 *   [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
-
-*   [rosywrt/luci-theme-purple](https://github.com/rosywrt/luci-theme-purple) - Purple Theme for LuCI
 
 ## Rust
 
