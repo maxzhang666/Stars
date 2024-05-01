@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Python](#python)
 *   [TypeScript](#typescript)
-*   [Vue](#vue)
 *   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -43,7 +43,61 @@
 *   [Perl](#perl)
 *   [Blade](#blade)
 
+## Vue
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
+
+*   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
+
+*   [huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal) - 一个简洁的无后端静态导航站点（个人书签页）
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+
+*   [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
+
+*   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
+
+*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
+
+*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment for macOS
+
+*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+
+*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
+
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+
+*   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
+
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+
+*   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
+
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+
+*   [Hanxueqing/Douban-Movie](https://github.com/Hanxueqing/Douban-Movie) - 使用Vue全家桶+Node.js搭建的小型全栈项目，项目文档：https://hanxueqing.github.io/Douban-Movie/
+
 ## Python
+
+*   [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save) - 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
 
 *   [yisol/IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 
@@ -189,7 +243,7 @@
 
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 
 *   [youngle316/cover-paint](https://github.com/youngle316/cover-paint) - 🖌️ cover create tool
 
@@ -377,56 +431,6 @@
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
-## Vue
-
-*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
-
-*   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
-
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
-
-*   [huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal) - 一个简洁的无后端静态导航站点（个人书签页）
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
-
-*   [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
-
-*   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
-
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-
-*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
-
-*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
-
-*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment for macOS
-
-*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
-
-*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-
-*   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
-
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
-
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
-
-*   [Hanxueqing/Douban-Movie](https://github.com/Hanxueqing/Douban-Movie) - 使用Vue全家桶+Node.js搭建的小型全栈项目，项目文档：https://hanxueqing.github.io/Douban-Movie/
-
 ## PHP
 
 *   [youyingxiang/Discover](https://github.com/youyingxiang/Discover) - Discover 是一个基于 Dcat-admin 开发的进销存系统
@@ -548,10 +552,6 @@
 *   [WangNingkai/OLAINDEX](https://github.com/WangNingkai/OLAINDEX) - ✨ Another OneDrive Directory Index
 
 *   [5iux/sou](https://github.com/5iux/sou) - 简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。
-
-*   [magicblack/maccms10](https://github.com/magicblack/maccms10) - 苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序
-
-*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
 
 ## miscellaneous
 
@@ -1271,7 +1271,7 @@
 
 ## Objective-C
 
-*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 
 *   [primalmotion/SSHTunnel](https://github.com/primalmotion/SSHTunnel) - SSHTunnel is a Mac OS X app to make SSH tunneling easy
 
