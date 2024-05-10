@@ -13,11 +13,12 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
-*   [Dart](#dart)
+*   [Svelte](#svelte)
+*   [PHP](#php)
 *   [Python](#python)
 *   [TypeScript](#typescript)
-*   [PHP](#php)
+*   [Vue](#vue)
+*   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -43,77 +44,131 @@
 *   [Perl](#perl)
 *   [Blade](#blade)
 
-## Vue
+## Svelte
 
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+## PHP
 
-*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
-*   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
+*   [youyingxiang/Discover](https://github.com/youyingxiang/Discover) - Discover 是一个基于 Dcat-admin 开发的进销存系统
 
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+*   [LyLme/lylme\_spage](https://github.com/LyLme/lylme_spage) - 六零导航页
 
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+*   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+*   [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
 
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
+*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 
-*   [huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal) - 一个简洁的无后端静态导航站点（个人书签页）
+*   [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) - Free and open-source webshop solution for hostings
 
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
 
-*   [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
+*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
 
-*   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
 
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+*   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+*   [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
 
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+*   [5ime/API-Admin](https://github.com/5ime/API-Admin) - API 网站内容管理系统 内置 20+ API 接口
 
-*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
+*   [5ime/video\_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
 
-*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
+*   [RavanH/xml-sitemap-feed](https://github.com/RavanH/xml-sitemap-feed) - XML Sitemap & Google News feeds
 
-*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment for macOS
+*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 
-*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
+*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 
-*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
+*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+*   [witersen/SvnAdminV2.0](https://github.com/witersen/SvnAdminV2.0) - 基于web的SVN管理系统，支持HTTP协议、SVN协议、支持LDAP认证、Docker部署
 
-*   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
+*   [ChenSee/ChenPay](https://github.com/ChenSee/ChenPay) -  Composer 免签约支付宝与微信，直接到个人账户，持续维护，PHP实现免签约支付接口，判断订单号与备注，自带监听。
 
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 
-*   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
+*   [MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。
 
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
 
-*   [Hanxueqing/Douban-Movie](https://github.com/Hanxueqing/Douban-Movie) - 使用Vue全家桶+Node.js搭建的小型全栈项目，项目文档：https://hanxueqing.github.io/Douban-Movie/
+*   [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme) - CorePress 主题，一款高性能，高颜值的WordPress主题
 
-## Dart
+*   [lizhipay/faka](https://github.com/lizhipay/faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码
 
-*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
+*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
 
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+*   [TideSec/WDScanner](https://github.com/TideSec/WDScanner) - WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
 
-*   [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+*   [Seaony/Hunt](https://github.com/Seaony/Hunt) - This is laravel 5.5 + pjax the Hunt
 
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
 
-*   [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+*   [likeyun/WeChat-Group-HuoMa](https://github.com/likeyun/WeChat-Group-HuoMa) - 微信群二维码活码工具，生成微信群活码，随时可以切换二维码！
 
-*   [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。
+*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 
-*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
+*   [namet117/socialite](https://github.com/namet117/socialite) - 社会化登陆，微信、新浪微博、Github、百度、QQ、OSChina
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+*   [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+
+*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+
+*   [flutterbest/easytbk](https://github.com/flutterbest/easytbk) - 淘客5合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁
+
+*   [QThans/layui-admin](https://github.com/QThans/layui-admin) - 基于layui和thinkphp6.0的快速后台开发框架。快速构建完善的管理后台，内置表单、表格的php生成，以及完善的RBAC权限管理。
+
+*   [fangzesheng/f-admin](https://github.com/fangzesheng/f-admin) - f-admin是一套基于Laravel框架开发的基础权限后台系统
+
+*   [Beipy/BeipyVideoResolution](https://github.com/Beipy/BeipyVideoResolution) - 北漂鱼解析开源视频播放框架，响应式布局！
+
+*   [beJuvenile/opensdk-suning](https://github.com/beJuvenile/opensdk-suning) - 苏宁联盟SDK
+
+*   [cong5/myPersimmon](https://github.com/cong5/myPersimmon) - 基于Laravel 5.4 的开发的博客系统，代号：myPersimmon
+
+*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
+
+*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [phpzc/WebBug](https://github.com/phpzc/WebBug) - 在线项目管理系统-PHP编写的Web项目BUG管理系统
+
+*   [yuanzhihai/think-mail](https://github.com/yuanzhihai/think-mail) - 一个优美的php邮件类think-mailer，支持邮件模板、纯文本、附件邮件发送以及更多邮件功能， 邮件发送简单到只需一行代码，原生支持ThinkPHP所有框架，也非常方便其他框架扩展\[已支持至8.0]
+
+*   [longbeidou/taobaokev3](https://github.com/longbeidou/taobaokev3) - 淘宝客网站的第三个版本，代码全部开源。
+
+*   [ChenSee/ss-panel-v3-mod\_Uim-alipay-wxpay](https://github.com/ChenSee/ss-panel-v3-mod_Uim-alipay-wxpay) - ss panel v3 mod 魔改版免签约支付宝与微信双支付程序自检测，无需第三方软件支持，根据COOKIE，EMAIL通知失效情况，加入XCAT命令，加入定时任务自动检测，相关配置在后台管理，不定时同步NimaQu库。
+
+*   [MercyCloudTeam/TomatoIDC](https://github.com/MercyCloudTeam/TomatoIDC) -  TomatoIDC/HStack是一款以MIT协议开源销售系统，具备易于扩展的插件系统，模版系统，使用强大的Laravel框架进行驱动，能帮助你轻松的扩展业务。
+
+*   [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
+
+*   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
+
+*   [ganlvtech/php-enphp-decoder](https://github.com/ganlvtech/php-enphp-decoder) - EnPHP Decoder written in PHP
+
+*   [Skywt2003/PasteBurn](https://github.com/Skywt2003/PasteBurn) - Burning after reading.
+
+*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+
+*   [hyyyp/HYBBS2](https://github.com/hyyyp/HYBBS2) - 基于HYPHP MVC框架开发的PHP论坛程序，拥有插件、模板扩展。
+
+*   [szvone/vmqphp](https://github.com/szvone/vmqphp) - V免签PHP版 完全开源免费的个人免签约解决方案
+
+*   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
 
 ## Python
+
+*   [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
+
+*   [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 
 *   [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save) - 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙
 
@@ -251,9 +306,9 @@
 
 *   [vcheckzen/FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
 
-*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-
 ## TypeScript
+
+*   [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
@@ -449,125 +504,75 @@
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
-## PHP
+## Vue
 
-*   [youyingxiang/Discover](https://github.com/youyingxiang/Discover) - Discover 是一个基于 Dcat-admin 开发的进销存系统
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
-*   [LyLme/lylme\_spage](https://github.com/LyLme/lylme_spage) - 六零导航页
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
-*   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
+*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
 
-*   [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
+*   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
 
-*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
-*   [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) - Free and open-source webshop solution for hostings
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
-*   [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial\_tramway: A modern, powerful, and robust URL shortener
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
 
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+*   [huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal) - 一个简洁的无后端静态导航站点（个人书签页）
 
-*   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 
-*   [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
+*   [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
 
-*   [5ime/API-Admin](https://github.com/5ime/API-Admin) - API 网站内容管理系统 内置 20+ API 接口
+*   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
 
-*   [5ime/video\_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
-*   [RavanH/xml-sitemap-feed](https://github.com/RavanH/xml-sitemap-feed) - XML Sitemap & Google News feeds
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
-*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
+*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 
-*   [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
+*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 
-*   [witersen/SvnAdminV2.0](https://github.com/witersen/SvnAdminV2.0) - 基于web的SVN管理系统，支持HTTP协议、SVN协议、支持LDAP认证、Docker部署
+*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web and PHP Development Environment for macOS
 
-*   [ChenSee/ChenPay](https://github.com/ChenSee/ChenPay) -  Composer 免签约支付宝与微信，直接到个人账户，持续维护，PHP实现免签约支付接口，判断订单号与备注，自带监听。
+*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 
-*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 
-*   [MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 
-*   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
+*   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
 
-*   [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme) - CorePress 主题，一款高性能，高颜值的WordPress主题
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 
-*   [lizhipay/faka](https://github.com/lizhipay/faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码
+*   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 
-*   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
 
-*   [TideSec/WDScanner](https://github.com/TideSec/WDScanner) - WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、子域名枚举、端口扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署等功能。
+*   [Hanxueqing/Douban-Movie](https://github.com/Hanxueqing/Douban-Movie) - 使用Vue全家桶+Node.js搭建的小型全栈项目，项目文档：https://hanxueqing.github.io/Douban-Movie/
 
-*   [Seaony/Hunt](https://github.com/Seaony/Hunt) - This is laravel 5.5 + pjax the Hunt
+## Dart
 
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
 
-*   [likeyun/WeChat-Group-HuoMa](https://github.com/likeyun/WeChat-Group-HuoMa) - 微信群二维码活码工具，生成微信群活码，随时可以切换二维码！
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
-*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
+*   [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
-*   [namet117/socialite](https://github.com/namet117/socialite) - 社会化登陆，微信、新浪微博、Github、百度、QQ、OSChina
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+*   [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 
-*   [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+*   [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。
 
-*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
-
-*   [flutterbest/easytbk](https://github.com/flutterbest/easytbk) - 淘客5合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁
-
-*   [QThans/layui-admin](https://github.com/QThans/layui-admin) - 基于layui和thinkphp6.0的快速后台开发框架。快速构建完善的管理后台，内置表单、表格的php生成，以及完善的RBAC权限管理。
-
-*   [fangzesheng/f-admin](https://github.com/fangzesheng/f-admin) - f-admin是一套基于Laravel框架开发的基础权限后台系统
-
-*   [Beipy/BeipyVideoResolution](https://github.com/Beipy/BeipyVideoResolution) - 北漂鱼解析开源视频播放框架，响应式布局！
-
-*   [beJuvenile/opensdk-suning](https://github.com/beJuvenile/opensdk-suning) - 苏宁联盟SDK
-
-*   [cong5/myPersimmon](https://github.com/cong5/myPersimmon) - 基于Laravel 5.4 的开发的博客系统，代号：myPersimmon
-
-*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
-
-*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-*   [phpzc/WebBug](https://github.com/phpzc/WebBug) - 在线项目管理系统-PHP编写的Web项目BUG管理系统
-
-*   [yuanzhihai/think-mail](https://github.com/yuanzhihai/think-mail) - 一个优美的php邮件类think-mailer，支持邮件模板、纯文本、附件邮件发送以及更多邮件功能， 邮件发送简单到只需一行代码，原生支持ThinkPHP所有框架，也非常方便其他框架扩展\[已支持至8.0]
-
-*   [longbeidou/taobaokev3](https://github.com/longbeidou/taobaokev3) - 淘宝客网站的第三个版本，代码全部开源。
-
-*   [ChenSee/ss-panel-v3-mod\_Uim-alipay-wxpay](https://github.com/ChenSee/ss-panel-v3-mod_Uim-alipay-wxpay) - ss panel v3 mod 魔改版免签约支付宝与微信双支付程序自检测，无需第三方软件支持，根据COOKIE，EMAIL通知失效情况，加入XCAT命令，加入定时任务自动检测，相关配置在后台管理，不定时同步NimaQu库。
-
-*   [MercyCloudTeam/TomatoIDC](https://github.com/MercyCloudTeam/TomatoIDC) -  TomatoIDC/HStack是一款以MIT协议开源销售系统，具备易于扩展的插件系统，模版系统，使用强大的Laravel框架进行驱动，能帮助你轻松的扩展业务。
-
-*   [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
-
-*   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
-
-*   [ganlvtech/php-enphp-decoder](https://github.com/ganlvtech/php-enphp-decoder) - EnPHP Decoder written in PHP
-
-*   [Skywt2003/PasteBurn](https://github.com/Skywt2003/PasteBurn) - Burning after reading.
-
-*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
-
-*   [hyyyp/HYBBS2](https://github.com/hyyyp/HYBBS2) - 基于HYPHP MVC框架开发的PHP论坛程序，拥有插件、模板扩展。
-
-*   [szvone/vmqphp](https://github.com/szvone/vmqphp) - V免签PHP版 完全开源免费的个人免签约解决方案
-
-*   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
-
-*   [iAJue/qr](https://github.com/iAJue/qr) - QQ、支付宝、微信收款码三合一
-
-*   [Hackxiaoya/CuteOneP](https://github.com/Hackxiaoya/CuteOneP) - CuteOne的PHP版本，onedrive挂载程序；
-
-*   [WangNingkai/OLAINDEX](https://github.com/WangNingkai/OLAINDEX) - ✨ Another OneDrive Directory Index
+*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
 
 ## miscellaneous
 
@@ -815,7 +820,7 @@
 
 *   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/sftp client(linux, mac, win)
 
 *   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
 
@@ -1298,5 +1303,3 @@
 ## Blade
 
 *   [laravel-admin-extensions/api-tester](https://github.com/laravel-admin-extensions/api-tester) - API tester for laravel-admin
-
-*   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
