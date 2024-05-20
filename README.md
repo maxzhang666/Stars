@@ -30,7 +30,6 @@
 *   [Java](#java)
 *   [CSS](#css)
 *   [Rust](#rust)
-*   [PowerShell](#powershell)
 *   [Smarty](#smarty)
 *   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
@@ -42,6 +41,7 @@
 *   [Vim Script](#vim-script)
 *   [MDX](#mdx)
 *   [Perl](#perl)
+*   [PowerShell](#powershell)
 *   [Blade](#blade)
 
 ## Go
@@ -152,7 +152,7 @@
 
 *   [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - A user-friendly toolkit for audio processing, voice transcribing, voice converting etc.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 
 *   [alibaba-damo-academy/FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 
@@ -994,7 +994,7 @@
 
 *   [LLOneBot/llonebot-docker](https://github.com/LLOneBot/llonebot-docker) - 一键部署基于NTQQ的OneBot协议的Bot容器
 
-*   [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
 *   [CikeyQi/unidbg-fetch-qsign-shell](https://github.com/CikeyQi/unidbg-fetch-qsign-shell) - Linux一键快速部署Qsign服务
 
@@ -1037,6 +1037,8 @@
 ## C\#
 
 *   [CikeyQi/unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui) - Windows可视化部署管理Qsign服务
+
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 *   [cq-panda/Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) - (已支持sqlsugar).NetCore、.Net6、Vue2、Vue3、Vite、TypeScript、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。http://www.volcore.xyz/
 
@@ -1202,12 +1204,6 @@
 
 *   [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 
-## PowerShell
-
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
-
-*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
-
 ## Smarty
 
 *   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 500 个。
@@ -1299,6 +1295,10 @@
 ## Perl
 
 *   [uparrows/LANraragi\_cn](https://github.com/uparrows/LANraragi_cn) - This repo is a fork of Difegue / LANraragi , those things i've done was to translate this repo into chinese ,and fix chrome browser js problem.
+
+## PowerShell
+
+*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
 ## Blade
 
