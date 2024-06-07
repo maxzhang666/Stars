@@ -46,7 +46,11 @@
 
 ## Python
 
-*   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of  Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+*   [Bklieger/groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
+
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
+
+*   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 
 *   [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
 
@@ -762,7 +766,7 @@
 
 ## Kotlin
 
-*   [hua0512/stream-rec](https://github.com/hua0512/stream-rec) - Automatic streaming record tool powered by FFmpeg. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制
+*   [hua0512/stream-rec](https://github.com/hua0512/stream-rec) - Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制
 
 *   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
 
@@ -871,8 +875,6 @@
 *   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
 
 *   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
 ## JavaScript
 
@@ -1197,8 +1199,6 @@
 *   [Element-Blazor/Element-Blazor](https://github.com/Element-Blazor/Element-Blazor) - A Web UI Library based on Element and Blazor WebAssembly.
 
 *   [kwwwvagaa/NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl) - HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~
-
-*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 
 ## Swift
 
