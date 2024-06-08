@@ -274,7 +274,7 @@
 
 *   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 
-*   [mengzehe/TV](https://github.com/mengzehe/TV) - TVBox自用源以及仓库源、直播源等
+*   [880824/TV](https://github.com/880824/TV) - TVBox自用源以及仓库源、直播源等
 
 *   [MrXiaoM/protocol-versions](https://github.com/MrXiaoM/protocol-versions) - QQ protocol versions. 8.9.58 - 8.9.90
 
