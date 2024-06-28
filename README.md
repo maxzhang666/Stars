@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -20,7 +21,6 @@
 *   [PHP](#php)
 *   [Dart](#dart)
 *   [Svelte](#svelte)
-*   [C++](#c)
 *   [Vue](#vue)
 *   [Rust](#rust)
 *   [Java](#java)
@@ -42,6 +42,24 @@
 *   [MDX](#mdx)
 *   [Perl](#perl)
 *   [PowerShell](#powershell)
+
+## C++
+
+*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
+
+*   [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
+
+*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+
+*   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
 ## Python
 
@@ -789,8 +807,6 @@
 
 *   [flutterbest/easytbk](https://github.com/flutterbest/easytbk) - 淘客5合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁
 
-*   [QThans/layui-admin](https://github.com/QThans/layui-admin) - 基于layui和thinkphp6.0的快速后台开发框架。快速构建完善的管理后台，内置表单、表格的php生成，以及完善的RBAC权限管理。
-
 ## Dart
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
@@ -816,22 +832,6 @@
 *   [NMTuan/maths](https://github.com/NMTuan/maths) - 加减法数学题生成器
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-
-## C++
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-
-*   [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
-
-*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-
-*   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
 ## Vue
 
