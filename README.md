@@ -48,7 +48,7 @@
 
 *   [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 
-*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - GO 开发的轻量 Linux 面板
+*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - 现代化、开源的轻量服务器管理面板
 
 *   [CodFrm/dns-kit](https://github.com/CodFrm/dns-kit) -
 
@@ -390,7 +390,7 @@
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-*   [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
+*   [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 
 *   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 
