@@ -618,8 +618,6 @@
 
 *   [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
 
-*   [AIGText/Glyph-ByT5](https://github.com/AIGText/Glyph-ByT5) - \[ECCV2024] This is an official inference code of the paper "Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering" and "Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering""
-
 *   [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
 
 *   [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
@@ -1003,6 +1001,8 @@
 ## Jupyter Notebook
 
 *   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+*   [AIGText/Glyph-ByT5](https://github.com/AIGText/Glyph-ByT5) - \[ECCV2024] This is an official inference code of the paper "Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering" and "Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering""
 
 *   [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) -
 
