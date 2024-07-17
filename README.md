@@ -286,7 +286,7 @@
 
 *   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
 *   [Hoshinonyaruko/Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo) - 基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.
 
