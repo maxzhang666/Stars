@@ -298,7 +298,7 @@
 
 ## Python
 
-*   [miladrahimi/v2ray-docker-compose](https://github.com/miladrahimi/v2ray-docker-compose) - V2Ray Docker Compose Setups (Single Server, Relay and Upstream Servers, Websockets + TLS + CDN) with Shadowsocks, VMess, SOCKS, and HTTP Protocols
+*   [miladrahimi/v2ray-docker-compose](https://github.com/miladrahimi/v2ray-docker-compose) - V2Ray Docker Compose Configurations (Single Server, Relay and Upstream Servers, Websockets + TLS + CDN) with Shadowsocks, VMess, SOCKS, and HTTP Protocols
 
 *   [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 
@@ -352,7 +352,7 @@
 
 *   [BytedanceSpeech/seed-tts-eval](https://github.com/BytedanceSpeech/seed-tts-eval) -
 
-*   [Bklieger/groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
+*   [Bklieger/infinite-bookshelf](https://github.com/Bklieger/infinite-bookshelf) - Infinite Bookshelf: Generate entire books in seconds using Groq and Llama3
 
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 
