@@ -683,6 +683,8 @@
 
 *   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 
+*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
+
 *   [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
 
 *   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
@@ -1094,8 +1096,6 @@
 *   [lmm214/memos-bber](https://github.com/lmm214/memos-bber) - Memos 的 Chrome 扩展
 
 *   [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
-
-*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 
 *   [axiref/telegram-pwsbot](https://github.com/axiref/telegram-pwsbot) - Telegram投稿机器人，支援多图，Nodejs!
 
