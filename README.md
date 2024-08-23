@@ -13,15 +13,15 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
-*   [C#](#c)
+*   [Vue](#vue)
+*   [Kotlin](#kotlin)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
-*   [Kotlin](#kotlin)
+*   [Swift](#swift)
+*   [C#](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
-*   [Vue](#vue)
 *   [Ruby](#ruby)
 *   [Go](#go)
 *   [C++](#c-1)
@@ -43,113 +43,106 @@
 *   [MDX](#mdx)
 *   [Perl](#perl)
 *   [PowerShell](#powershell)
-*   [Blade](#blade)
 
-## Swift
+## Vue
 
-*   [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) - Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!
+*   [openmynet/tvboxsp](https://github.com/openmynet/tvboxsp) - tvbox media source processing
 
-*   [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP)
 
-*   [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
 
-*   [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
+*   [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS) - The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and opened it up for free, hoping to help the majority of small and medium-sized enterprises. At present, the system supports cross-platform。
 
-*   [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
-*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
+*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
-*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，内置两款设计器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
 
-*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
+*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust & Tarui aimed at providing mouse and key mapping to control Android device, similar to a game emulator
 
-*   [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
-## C\#
+*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
 
-*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili（B站）无人值守直播工具。自动登录，自动获取直播推流地址，自动推流（使用ffmpeg），可以用于电脑、树莓派等设备无人值守直播。
+*   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
 
-*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
-*   [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用MAUI Blazor 构建。"SwashbucklerDiary" is an open source cross-platform local diary app using MAUI Blazor .
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
-*   [CikeyQi/unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui) - Windows可视化部署管理Qsign服务
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
 
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+*   [huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal) - 一个简洁的无后端静态导航站点（个人书签页）
 
-*   [cq-panda/Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) - (已支持sqlsugar).NetCore、.Net6、Vue2、Vue3、Vite、TypeScript、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。http://www.volcore.xyz/
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
-*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 
-*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+*   [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
 
-*   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
+*   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
 
-*   [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
-*   [FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel) - expose a local server to the internet.  高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 
-*   [2881099/FreeRedis](https://github.com/2881099/FreeRedis) - 🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
-*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
+*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 
-*   [Danz17/Proxifier-Keygen](https://github.com/Danz17/Proxifier-Keygen) -
+*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web Server and PHP Environment. Support macOS / Windows / Linux
 
-*   [wuhenge/NeteaseMusicCloudMatch](https://github.com/wuhenge/NeteaseMusicCloudMatch) -
+*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 
-*   [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - MetaTube Plugin for Jellyfin/Emby
+*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 
-*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 
-*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
+*   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
 
-*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 
-*   [wpyok168/XiaoLiZi\_SDK](https://github.com/wpyok168/XiaoLiZi_SDK) - 小栗子C# SDK
+*   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 
-*   [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
 
-*   [ArgoZhang/BootstrapAdmin](https://github.com/ArgoZhang/BootstrapAdmin) - BootstrapAdmin - Free Premium Admin control Panel Based On Bootstrap 4.x
+## Kotlin
 
-*   [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
+*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 
-*   [yilezhu/AbpQuzatzDemo](https://github.com/yilezhu/AbpQuzatzDemo) - 用abp vNext快速开发Quartz.NET定时任务管理界面
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 
-*   [RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 基于 .Net 5 的B站（哔哩哔哩）任务工具，实现每日自动运行任务：如每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6；如定时自动领取大会员权益、月底自动为自己充电；如天选时刻抽奖等功能。
+*   [hua0512/stream-rec](https://github.com/hua0512/stream-rec) - Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制
 
-*   [zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui) - 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置
+*   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
 
-*   [heerheer/Native.XQ](https://github.com/heerheer/Native.XQ) - 为XQRobot编写的c#开发SDK
+*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档生成词库，为单词提供具体语境。记忆单词时，可以通过键盘拼写单词、观看相关视频片段
 
-*   [modern-forms/Modern.Forms](https://github.com/modern-forms/Modern.Forms) - Cross-platform spiritual successor to Winforms for .NET 6+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 
-*   [yhuse/SunnyUI](https://github.com/yhuse/SunnyUI) - SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
-*   [bobowire/Wireboy.SDK.CQP](https://github.com/bobowire/Wireboy.SDK.CQP) -  C# .net框架的酷Q机器人插件SDK
+*   [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
 
-*   [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载
+*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 
-*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+*   [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http) - Mirai HTTP API (console) plugin
 
-*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 
-*   [liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) - 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观
-
-*   [laochiangx/ABP-ASP.NET-Boilerplate-Project-CMS](https://github.com/laochiangx/ABP-ASP.NET-Boilerplate-Project-CMS) - ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统
-
-*   [HuJinguang/CxFlatUI](https://github.com/HuJinguang/CxFlatUI) - winform控件
-
-*   [aduskin/AduSkin](https://github.com/aduskin/AduSkin) - A Beautiful WPF Control UI
-
-*   [hemaju/Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket) - P2P内网穿透，实现【公司】-【家】远程控制
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 ## Jupyter Notebook
+
+*   [Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing) - 智能视频多语言AI配音/翻译工具 - Linly-Dubbing — “AI赋能，语言无界”
 
 *   [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 
@@ -172,6 +165,8 @@
 *   [clue-ai/PromptCLUE](https://github.com/clue-ai/PromptCLUE) - PromptCLUE, 全中文任务支持零样本学习模型
 
 ## Python
+
+*   [lxulxu/WatermarkRemover](https://github.com/lxulxu/WatermarkRemover) - 批量去除视频中位置固定的水印
 
 *   [zhulu111/ComfyUI\_Bxb](https://github.com/zhulu111/ComfyUI_Bxb) - SD变现宝：一键把comfyui工作流转换成小程序。
 
@@ -411,29 +406,107 @@
 
 *   [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl) - Musicdl: A lightweight music downloader written in pure python.
 
-## Kotlin
+## Swift
 
-*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+*   [lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery) - Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!
 
-*   [hua0512/stream-rec](https://github.com/hua0512/stream-rec) - Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制
+*   [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 
-*   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
+*   [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 
-*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档生成词库，为单词提供具体语境。记忆单词时，可以通过键盘拼写单词、观看相关视频片段
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
+*   [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+*   [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.
 
-*   [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
+*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 
-*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
-*   [project-mirai/mirai-api-http](https://github.com/project-mirai/mirai-api-http) - Mirai HTTP API (console) plugin
+*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+*   [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+
+## C\#
+
+*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili（B站）无人值守直播工具。自动登录，自动获取直播推流地址，自动推流（使用ffmpeg），可以用于电脑、树莓派等设备无人值守直播。
+
+*   [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
+
+*   [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用MAUI Blazor 构建。"SwashbucklerDiary" is an open source cross-platform local diary app using MAUI Blazor .
+
+*   [CikeyQi/unidbg-fetch-qsign-gui](https://github.com/CikeyQi/unidbg-fetch-qsign-gui) - Windows可视化部署管理Qsign服务
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [cq-panda/Vue.NetCore](https://github.com/cq-panda/Vue.NetCore) - (已支持sqlsugar).NetCore、.Net6、Vue2、Vue3、Vite、TypeScript、Element plus+uniapp前后端分离，全自动生成代码；支持移动端(ios/android/h5/微信小程序。http://www.volcore.xyz/
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+
+*   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
+
+*   [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
+
+*   [FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel) - expose a local server to the internet.  高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
+
+*   [2881099/FreeRedis](https://github.com/2881099/FreeRedis) - 🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.
+
+*   [BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 录播姬 | mikufans 生放送录制
+
+*   [Danz17/Proxifier-Keygen](https://github.com/Danz17/Proxifier-Keygen) -
+
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+*   [wuhenge/NeteaseMusicCloudMatch](https://github.com/wuhenge/NeteaseMusicCloudMatch) -
+
+*   [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - MetaTube Plugin for Jellyfin/Emby
+
+*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
+
+*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
+
+*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
+
+*   [wpyok168/XiaoLiZi\_SDK](https://github.com/wpyok168/XiaoLiZi_SDK) - 小栗子C# SDK
+
+*   [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
+
+*   [ArgoZhang/BootstrapAdmin](https://github.com/ArgoZhang/BootstrapAdmin) - BootstrapAdmin - Free Premium Admin control Panel Based On Bootstrap 4.x
+
+*   [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
+
+*   [yilezhu/AbpQuzatzDemo](https://github.com/yilezhu/AbpQuzatzDemo) - 用abp vNext快速开发Quartz.NET定时任务管理界面
+
+*   [RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 基于 .Net 5 的B站（哔哩哔哩）任务工具，实现每日自动运行任务：如每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6；如定时自动领取大会员权益、月底自动为自己充电；如天选时刻抽奖等功能。
+
+*   [zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui) - 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置
+
+*   [heerheer/Native.XQ](https://github.com/heerheer/Native.XQ) - 为XQRobot编写的c#开发SDK
+
+*   [modern-forms/Modern.Forms](https://github.com/modern-forms/Modern.Forms) - Cross-platform spiritual successor to Winforms for .NET 6+
+
+*   [yhuse/SunnyUI](https://github.com/yhuse/SunnyUI) - SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。
+
+*   [bobowire/Wireboy.SDK.CQP](https://github.com/bobowire/Wireboy.SDK.CQP) -  C# .net框架的酷Q机器人插件SDK
+
+*   [kengwang/BiliDuang](https://github.com/kengwang/BiliDuang) - (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载
+
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+
+*   [liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) - 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观
+
+*   [laochiangx/ABP-ASP.NET-Boilerplate-Project-CMS](https://github.com/laochiangx/ABP-ASP.NET-Boilerplate-Project-CMS) - ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统
+
+*   [HuJinguang/CxFlatUI](https://github.com/HuJinguang/CxFlatUI) - winform控件
+
+*   [aduskin/AduSkin](https://github.com/aduskin/AduSkin) - A Beautiful WPF Control UI
 
 ## TypeScript
 
@@ -477,7 +550,7 @@
 
 *   [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
 
 *   [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3
 
@@ -796,74 +869,6 @@
 *   [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 
 *   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
-
-## Vue
-
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP)
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-
-*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-
-*   [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS) - The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and opened it up for free, hoping to help the majority of small and medium-sized enterprises. At present, the system supports cross-platform。
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 一款开源简历设计生成器，内置两款设计器，多种免费模板选择，还可以自定义模板、主题等等，支持导出PDF、JSON数据。
-
-*   [AkiChase/scrcpy-mask](https://github.com/AkiChase/scrcpy-mask) - A Scrcpy client in Rust & Tarui aimed at providing mouse and key mapping to control Android device, similar to a game emulator
-
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
-
-*   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
-
-*   [huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal) - 一个简洁的无后端静态导航站点（个人书签页）
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-
-*   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
-
-*   [iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper) - 为tkinter打造的可视化拖拽布局界面设计小工具
-
-*   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
-
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-
-*   [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
-
-*   [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
-
-*   [xpf0000/PhpWebStudy](https://github.com/xpf0000/PhpWebStudy) - Powerful Web Server and PHP Environment. Support macOS / Windows / Linux
-
-*   [starsliao/TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer\&ECS/MySQL/Redis云监控指标采集\&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
-
-*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-
-*   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
-
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
-
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
 
 ## Ruby
 
@@ -1365,10 +1370,6 @@
 
 *   [cong5/myPersimmon](https://github.com/cong5/myPersimmon) - 基于Laravel 5.4 的开发的博客系统，代号：myPersimmon
 
-*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
-
-*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
-
 ## Svelte
 
 *   [NMTuan/maths](https://github.com/NMTuan/maths) - 加减法数学题生成器
@@ -1502,7 +1503,3 @@
 ## PowerShell
 
 *   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
-
-## Blade
-
-*   [laravel-admin-extensions/api-tester](https://github.com/laravel-admin-extensions/api-tester) - API tester for laravel-admin
