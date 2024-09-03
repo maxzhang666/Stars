@@ -46,6 +46,10 @@
 
 ## Python
 
+*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+
+*   [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+
 *   [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.
 
 *   [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
@@ -485,10 +489,6 @@
 *   [padolsey/findAndReplaceDOMText](https://github.com/padolsey/findAndReplaceDOMText) - :mag: Find and replace DOM text
 
 *   [superman66/wakatime-sync](https://github.com/superman66/wakatime-sync) - Update Wakatime summary data to your gist every day
-
-*   [aMarCruz/rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) - Rollup plugin to remove comments, trim trailing spaces, compact empty lines, and normalize line endings
-
-*   [yingye/rollup-plugin-banner](https://github.com/yingye/rollup-plugin-banner) - Rollup plugin to append content before js bundle.
 
 ## miscellaneous
 
