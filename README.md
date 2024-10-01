@@ -1000,7 +1000,7 @@
 
 ## JavaScript
 
-*   [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 和 Pages 的 Telegraph 图床，轻松实现无服务器部署！
+*   [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 和 Pages 的图床，轻松实现无服务器部署！
 
 *   [veasion/aippt](https://github.com/veasion/aippt) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, animations, and 3D effects.
 
@@ -1176,7 +1176,7 @@
 
 *   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 
-*   [hua0512/stream-rec](https://github.com/hua0512/stream-rec) - Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制
+*   [stream-rec/stream-rec](https://github.com/stream-rec/stream-rec) - Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制
 
 *   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
 
@@ -1452,7 +1452,7 @@
 
 ## Smarty
 
-*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 519 个。
+*   [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 523 个。
 
 ## Dockerfile
 
