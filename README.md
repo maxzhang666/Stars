@@ -1180,7 +1180,7 @@
 
 *   [MrXiaoM/qsign](https://github.com/MrXiaoM/qsign) - Quick-signal Fetch Project
 
-*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 使用电影、美剧或文档生成词库（单词本）为单词提供具体语境。然后通过语境记忆单词。
+*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) -   使用电影、美剧或文档生成词库（单词本），为单词营造具体语境，进而通过此语境进行单词记忆。与此同时，用户能够使用键盘快速拼写单词，以此助力形成肌肉记忆，高效促进英语学习。
 
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 
