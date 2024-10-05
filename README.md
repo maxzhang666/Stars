@@ -14,7 +14,7 @@
 ## Table of Contents
 
 *   [Vue](#vue)
-*   [Batchfile](#batchfile)
+*   [PowerShell](#powershell)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -36,13 +36,13 @@
 *   [CSS](#css)
 *   [Smarty](#smarty)
 *   [Dockerfile](#dockerfile)
+*   [Batchfile](#batchfile)
 *   [C](#c-2)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 *   [Vim Script](#vim-script)
 *   [MDX](#mdx)
 *   [Perl](#perl)
-*   [PowerShell](#powershell)
 
 ## Vue
 
@@ -120,15 +120,11 @@
 
 *   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 
-## Batchfile
+## PowerShell
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
-*   [FongMi/Release](https://github.com/FongMi/Release) -
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
+*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
 ## HTML
 
@@ -678,7 +674,7 @@
 
 *   [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) -
 
-*   [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+*   [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 
 *   [lxulxu/WatermarkRemover](https://github.com/lxulxu/WatermarkRemover) - 批量去除视频中位置固定的水印
 
@@ -1202,7 +1198,7 @@
 
 *   [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 
-*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 *   [AIGText/Glyph-ByT5](https://github.com/AIGText/Glyph-ByT5) - \[ECCV2024] This is an official inference code of the paper "Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering" and "Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering""
 
@@ -1410,7 +1406,7 @@
 
 *   [maxiaof/github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
 
-*   [Eanya-Tonic/CCTV\_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款基于tv.cctv.com和央视频的简易电视直播收看软件，用于方便的在机顶盒上收看电视节目
+*   [Eanya-Tonic/CCTV\_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 
 *   [whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock) - A Bot Framework based on Lsposed with OneBot11（停止维护/禁用于违法用途）
 
@@ -1464,6 +1460,14 @@
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
+## Batchfile
+
+*   [FongMi/Release](https://github.com/FongMi/Release) -
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
+
 ## C
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -1499,7 +1503,3 @@
 ## Perl
 
 *   [uparrows/LANraragi\_cn](https://github.com/uparrows/LANraragi_cn) - This repo is a fork of Difegue / LANraragi , those things i've done was to translate this repo into chinese ,and fix chrome browser js problem.
-
-## PowerShell
-
-*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
