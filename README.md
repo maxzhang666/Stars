@@ -680,7 +680,7 @@
 
 *   [zhulu111/ComfyUI\_Bxb](https://github.com/zhulu111/ComfyUI_Bxb) - SD变现宝：一键把comfyui工作流转换成小程序。
 
-*   [lipku/metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time interactive streaming digital human
+*   [lipku/livetalking](https://github.com/lipku/livetalking) - Real time interactive streaming digital human
 
 *   [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 
