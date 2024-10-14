@@ -233,7 +233,7 @@
 
 *   [Bklieger/infinite-bookshelf](https://github.com/Bklieger/infinite-bookshelf) - Infinite Bookshelf: Generate entire books in seconds using Groq and Llama3
 
-*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
+*   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs, desktop. Build agents. Create automations
 
 *   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 
@@ -407,7 +407,7 @@
 
 *   [openmynet/tvboxsp](https://github.com/openmynet/tvboxsp) - tvbox media source processing
 
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP)
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP). 更新通知tg：
 
 *   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
@@ -793,7 +793,7 @@
 
 *   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 
 *   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 
