@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
-*   [Go](#go)
 *   [C++](#c)
 *   [C#](#c-1)
 *   [C](#c-2)
@@ -44,6 +44,141 @@
 *   [Vim Script](#vim-script)
 *   [MDX](#mdx)
 *   [Perl](#perl)
+*   [Blade](#blade)
+
+## Go
+
+*   [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
+
+*   [donknap/dpanel](https://github.com/donknap/dpanel) - docker可视化管理面板
+
+*   [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server
+
+*   [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+
+*   [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
+
+*   [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+
+*   [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
+
+*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - 全能服务器运维管理面板
+
+*   [CodFrm/dns-kit](https://github.com/CodFrm/dns-kit) -
+
+*   [yuimoi/tg\_pay\_gate](https://github.com/yuimoi/tg_pay_gate) - 一个方便部署的Telegram付费机器人，用户支付成功后会发送邀请链接给用户进入群组
+
+*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
+
+*   [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go.
+
+*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
+
+*   [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+
+*   [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
+
+*   [srcrs/MagicBox](https://github.com/srcrs/MagicBox) - 一个基于chrome的自动执行定时任务，目前支持B站、v2ex、hostloc、jd等网站的签到
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+
+*   [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
+
+*   [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc., chat bot demo: https://demo.casibase.com, admin UI demo: https://demo-admin.casibase.com
+
+*   [opentdp/tdp-cloud](https://github.com/opentdp/tdp-cloud) - 土豆片多云资源管理系统
+
+*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
+
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+
+*   [Hoshinonyaruko/Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo) - 基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+
+*   [mylxsw/aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+
+*   [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
+
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+
+*   [Vilsol/timeless-jewels](https://github.com/Vilsol/timeless-jewels) - A timeless jewel calculator and skill tree for Path of Exile
+
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+
+*   [metatube-community/metatube-sdk-go](https://github.com/metatube-community/metatube-sdk-go) - MetaTube SDK & API Server in Golang
+
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+
+*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+
+*   [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
+
+*   [FloatTech/ZeroBot-Plugin-Playground](https://github.com/FloatTech/ZeroBot-Plugin-Playground) - 快来这里上传你的奇思妙想吧！
+
+*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+*   [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
+
+*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.29.10 版本二开而来，NPS接力项目。公益云NPS：https://natnps.com
+
+*   [CodFrm/qqbot](https://github.com/CodFrm/qqbot) - 自己用的机器人插件，乱七八糟。
+
+*   [mnt-ltd/moredoc](https://github.com/mnt-ltd/moredoc) - moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [gphper/grm](https://github.com/gphper/grm) - redis可视化工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】
+
+*   [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
+
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+
+*   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
+
+*   [RicheyJang/PaimengBot](https://github.com/RicheyJang/PaimengBot) - 派蒙Bot：一个使用Onebot协议的插件式聊天机器人，支持30余种功能。支持多种数据库（包括SQLite、Postgresql、Mysql等）
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+
+*   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - 这是一个简单好用的ElasticSearch可视化客户端，支持连接6，7，8版本的ES，不妨一试
+
+*   [kevwan/go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
+
+*   [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP\[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711/OPUS, relay, cluster, record, HTTP Notify/API/UI. 直播
+
+*   [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
+
+*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
+
+*   [zu1k/proxypool](https://github.com/zu1k/proxypool) - Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and then provides a list of nodes
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [Baiyuetribe/glink](https://github.com/Baiyuetribe/glink) - Short video direct link acquisition 短视频直连去水印工具(支持抖音、快手、TikTok、皮皮虾、火山、开眼、陌陌等十几种)
+
+*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+
+*   [Sansui233/proxypool](https://github.com/Sansui233/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
+
+*   [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
+
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+
+*   [peterq/pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+
+*   [0xDkd/auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 
 ## TypeScript
 
@@ -304,6 +439,12 @@
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 *   [beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts) - 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [domchen/typescript-plus](https://github.com/domchen/typescript-plus) - Enhanced version of the original typescript compiler.
+
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
 ## Python
 
@@ -569,6 +710,12 @@
 
 *   [tylinux/hackintosh-ASUS-X570-Prime-Plus-3700x](https://github.com/tylinux/hackintosh-ASUS-X570-Prime-Plus-3700x) - Hackintosh bootloader configuration with OpenCore.
 
+*   [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl) - Musicdl: A lightweight music downloader written in pure python.
+
+*   [vcheckzen/FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
+
+*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+
 ## JavaScript
 
 *   [Aras-ax/lottery](https://github.com/Aras-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
@@ -739,129 +886,45 @@
 
 *   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 
-## Go
+*   [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 
-*   [donknap/dpanel](https://github.com/donknap/dpanel) - docker可视化管理面板
+*   [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
 
-*   [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server
+*   [nobitagit/material-floating-button](https://github.com/nobitagit/material-floating-button) - Vanilla Js Material design floating menu with action buttons.
 
-*   [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+*   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 
-*   [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 
-*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
 
-*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
+*   [padolsey/findAndReplaceDOMText](https://github.com/padolsey/findAndReplaceDOMText) - :mag: Find and replace DOM text
 
-*   [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+*   [superman66/wakatime-sync](https://github.com/superman66/wakatime-sync) - Update Wakatime summary data to your gist every day
 
-*   [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
+*   [aMarCruz/rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) - Rollup plugin to remove comments, trim trailing spaces, compact empty lines, and normalize line endings
 
-*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - 全能服务器运维管理面板
+*   [yingye/rollup-plugin-banner](https://github.com/yingye/rollup-plugin-banner) - Rollup plugin to append content before js bundle.
 
-*   [CodFrm/dns-kit](https://github.com/CodFrm/dns-kit) -
+*   [kaivin/webpack4.x](https://github.com/kaivin/webpack4.x) - webpack4.x详细配置步骤
 
-*   [yuimoi/tg\_pay\_gate](https://github.com/yuimoi/tg_pay_gate) - 一个方便部署的Telegram付费机器人，用户支付成功后会发送邀请链接给用户进入群组
+*   [newday-me/think-cms](https://github.com/newday-me/think-cms) - NewDayCms - 用简单的方式管理数据
 
-*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
+*   [SimonZhangITer/vue-typescript-dpapp-demo](https://github.com/SimonZhangITer/vue-typescript-dpapp-demo) - :fire: Let's start with TypeScript
 
-*   [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go.
+*   [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 
-*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
+*   [Aras-ax/react-demo](https://github.com/Aras-ax/react-demo) - React 官网示例实现 + 五子棋 + 简单文章发表 demo
 
-*   [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+*   [BYR-Navi/BYR-Navi](https://github.com/BYR-Navi/BYR-Navi) - A Light-Weight and Configurable Navigation Website Framework (for BYR)
 
-*   [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
+*   [zhongshaofa/layuimini](https://github.com/zhongshaofa/layuimini) - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
 
-*   [srcrs/MagicBox](https://github.com/srcrs/MagicBox) - 一个基于chrome的自动执行定时任务，目前支持B站、v2ex、hostloc、jd等网站的签到
+*   [static7/past](https://github.com/static7/past) - Static7 基础管理系统
 
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+*   [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 
-*   [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
-
-*   [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc., chat bot demo: https://demo.casibase.com, admin UI demo: https://demo-admin.casibase.com
-
-*   [opentdp/tdp-cloud](https://github.com/opentdp/tdp-cloud) - 土豆片多云资源管理系统
-
-*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
-
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
-
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
-
-*   [Hoshinonyaruko/Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo) - 基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.
-
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
-
-*   [mylxsw/aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
-
-*   [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go) - 一个用来下载/分享网易云歌曲的Telegram Bot
-
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-
-*   [Vilsol/timeless-jewels](https://github.com/Vilsol/timeless-jewels) - A timeless jewel calculator and skill tree for Path of Exile
-
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-
-*   [metatube-community/metatube-sdk-go](https://github.com/metatube-community/metatube-sdk-go) - MetaTube SDK & API Server in Golang
-
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-
-*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-
-*   [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
-
-*   [FloatTech/ZeroBot-Plugin-Playground](https://github.com/FloatTech/ZeroBot-Plugin-Playground) - 快来这里上传你的奇思妙想吧！
-
-*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-
-*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-
-*   [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
-
-*   [yisier/nps](https://github.com/yisier/nps) - 基于NPS 0.29.10 版本二开而来，NPS接力项目。公益云NPS：https://natnps.com
-
-*   [CodFrm/qqbot](https://github.com/CodFrm/qqbot) - 自己用的机器人插件，乱七八糟。
-
-*   [mnt-ltd/moredoc](https://github.com/mnt-ltd/moredoc) - moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-
-*   [gphper/grm](https://github.com/gphper/grm) - redis可视化工具（gin+element-plus）【部署简单便捷，SSH连接，用户校验，操作日志、命令行模式、LUA脚本执行、Redis监控等】
-
-*   [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
-
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-
-*   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
-
-*   [RicheyJang/PaimengBot](https://github.com/RicheyJang/PaimengBot) - 派蒙Bot：一个使用Onebot协议的插件式聊天机器人，支持30余种功能。支持多种数据库（包括SQLite、Postgresql、Mysql等）
-
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-
-*   [1340691923/ElasticView](https://github.com/1340691923/ElasticView) - 这是一个简单好用的ElasticSearch可视化客户端，支持连接6，7，8版本的ES，不妨一试
-
-*   [kevwan/go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
-
-*   [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP\[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711/OPUS, relay, cluster, record, HTTP Notify/API/UI. 直播
-
-*   [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
-
-*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
-
-*   [zu1k/proxypool](https://github.com/zu1k/proxypool) - Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and then provides a list of nodes
-
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [Baiyuetribe/glink](https://github.com/Baiyuetribe/glink) - Short video direct link acquisition 短视频直连去水印工具(支持抖音、快手、TikTok、皮皮虾、火山、开眼、陌陌等十几种)
-
-*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
-
-*   [Sansui233/proxypool](https://github.com/Sansui233/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
+*   [insoxin/weapp-qrpay](https://github.com/insoxin/weapp-qrpay) - 五合一收款码在线生成微信小程序版,35个模板 支持微信支付、支付宝支付、手机QQ支付、京东钱包、百度钱包,五合一收款，将其二维码合并为一个二维码，无需手续费,支持qq头像,昵称判断(HTML单页版多模板免安装) 腾讯云服务器 https://api.isoyu.com/qrpay/  腾讯云COS https://qrpay.isoyu.com/
 
 ## C++
 
@@ -888,6 +951,8 @@
 *   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 
 *   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+
+*   [DoubleLabyrinth/navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) - A keygen for Navicat
 
 ## C\#
 
@@ -964,6 +1029,34 @@
 *   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 *   [liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) - 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观
+
+*   [laochiangx/ABP-ASP.NET-Boilerplate-Project-CMS](https://github.com/laochiangx/ABP-ASP.NET-Boilerplate-Project-CMS) - ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统
+
+*   [HuJinguang/CxFlatUI](https://github.com/HuJinguang/CxFlatUI) - winform控件
+
+*   [aduskin/AduSkin](https://github.com/aduskin/AduSkin) - A Beautiful WPF Control UI
+
+*   [hemaju/Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket) - P2P内网穿透，实现【公司】-【家】远程控制
+
+*   [Element-Blazor/Element-Blazor](https://github.com/Element-Blazor/Element-Blazor) - A Web UI Library based on Element and Blazor WebAssembly.
+
+*   [kwwwvagaa/NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl) - HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~
+
+*   [notscuffed/repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
+
+*   [newbe36524/Newbe.Mahua.Framework](https://github.com/newbe36524/Newbe.Mahua.Framework) - 本SDK为实现QQ机器人平台的大一统，支持多种机器人平台：酷Q、MyPCQQ、QQLight等
+
+*   [Jie2GG/Native.Framework](https://github.com/Jie2GG/Native.Framework) - 完全由 C# 语言编写的 QQ机器人插件 SDK
+
+*   [Fody/Costura](https://github.com/Fody/Costura) - Embed references as resources
+
+*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [bsmg/ModAssistant](https://github.com/bsmg/ModAssistant) - Simple Beat Saber Mod Installer
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 ## C
 
@@ -1053,6 +1146,10 @@
 
 *   [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+
+*   [Hanxueqing/Douban-Movie](https://github.com/Hanxueqing/Douban-Movie) - 使用Vue全家桶+Node.js搭建的小型全栈项目，项目文档：https://hanxueqing.github.io/Douban-Movie/
+
 ## PowerShell
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
@@ -1084,6 +1181,8 @@
 *   [EvilCult/iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 
 *   [iwestlin/gd-utils](https://github.com/iwestlin/gd-utils) - Google Drive 百宝箱
+
+*   [bharadwajpro/m3u8-player](https://github.com/bharadwajpro/m3u8-player) - M3U8 Player in browser. Play any live stream m3u8 link with this website at https://bharadwajpro.github.io/m3u8-player
 
 ## miscellaneous
 
@@ -1171,6 +1270,24 @@
 
 *   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
 
+*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+
+*   [fuck-xuexiqiangguo/interfaces](https://github.com/fuck-xuexiqiangguo/interfaces) -
+
+*   [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
+
+*   [WenhaoDaiCN/Panda-Learning](https://github.com/WenhaoDaiCN/Panda-Learning) - 已终止该项目
+
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+*   [fecommunity/front-end-interview](https://github.com/fecommunity/front-end-interview) - 前端面试宝典，收集整理了全网最新、最全面的面试资料，帮助各位求职面试者斩获理想Offer。
+
+*   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
 ## Shell
 
 *   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡使用 Docker Compose 以更优雅的方式来部署小雅服务，支持一键部署 Alist + Emby + Jellyfin，全平台支持，Linux/Windows/Mac/群晖，X86/Arm架构
@@ -1212,6 +1329,10 @@
 *   [justmine66/MicroService.AutoDevOpsPipeLines](https://github.com/justmine66/MicroService.AutoDevOpsPipeLines) - Build a mature and stable automated DevOps pipeline with minimum learning cost, and continuously integrate/deploy AspnetCore micro-services to kubernetes.
 
 *   [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
+
+*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+*   [maxlicheng/luci-app-unblockmusic](https://github.com/maxlicheng/luci-app-unblockmusic) - 用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件 (openwrt/lede luci support for unblock neteasecloudmusic)
 
 ## Kotlin
 
@@ -1389,6 +1510,68 @@
 
 *   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
+*   [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+
+*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+
+*   [flutterbest/easytbk](https://github.com/flutterbest/easytbk) - 淘客5合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁
+
+*   [QThans/layui-admin](https://github.com/QThans/layui-admin) - 基于layui和thinkphp6.0的快速后台开发框架。快速构建完善的管理后台，内置表单、表格的php生成，以及完善的RBAC权限管理。
+
+*   [fangzesheng/f-admin](https://github.com/fangzesheng/f-admin) - f-admin是一套基于Laravel框架开发的基础权限后台系统
+
+*   [Beipy/BeipyVideoResolution](https://github.com/Beipy/BeipyVideoResolution) - 北漂鱼解析开源视频播放框架，响应式布局！
+
+*   [beJuvenile/opensdk-suning](https://github.com/beJuvenile/opensdk-suning) - 苏宁联盟SDK
+
+*   [cong5/myPersimmon](https://github.com/cong5/myPersimmon) - 基于Laravel 5.4 的开发的博客系统，代号：myPersimmon
+
+*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
+
+*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [phpzc/WebBug](https://github.com/phpzc/WebBug) - 在线项目管理系统-PHP编写的Web项目BUG管理系统
+
+*   [yuanzhihai/think-mail](https://github.com/yuanzhihai/think-mail) - 一个优美的php邮件类think-mailer，支持邮件模板、纯文本、附件邮件发送以及更多邮件功能， 邮件发送简单到只需一行代码，原生支持ThinkPHP所有框架，也非常方便其他框架扩展\[已支持至8.0]
+
+*   [longbeidou/taobaokev3](https://github.com/longbeidou/taobaokev3) - 淘宝客网站的第三个版本，代码全部开源。
+
+*   [ChenSee/ss-panel-v3-mod\_Uim-alipay-wxpay](https://github.com/ChenSee/ss-panel-v3-mod_Uim-alipay-wxpay) - ss panel v3 mod 魔改版免签约支付宝与微信双支付程序自检测，无需第三方软件支持，根据COOKIE，EMAIL通知失效情况，加入XCAT命令，加入定时任务自动检测，相关配置在后台管理，不定时同步NimaQu库。
+
+*   [MercyCloudTeam/TomatoIDC](https://github.com/MercyCloudTeam/TomatoIDC) -  TomatoIDC/HStack是一款以MIT协议开源销售系统，具备易于扩展的插件系统，模版系统，使用强大的Laravel框架进行驱动，能帮助你轻松的扩展业务。
+
+*   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
+
+*   [ganlvtech/php-enphp-decoder](https://github.com/ganlvtech/php-enphp-decoder) - EnPHP Decoder written in PHP
+
+*   [Skywt2003/PasteBurn](https://github.com/Skywt2003/PasteBurn) - Burning after reading.
+
+*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+
+*   [hyyyp/HYBBS2](https://github.com/hyyyp/HYBBS2) - 基于HYPHP MVC框架开发的PHP论坛程序，拥有插件、模板扩展。
+
+*   [szvone/vmqphp](https://github.com/szvone/vmqphp) - V免签PHP版 完全开源免费的个人免签约解决方案
+
+*   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
+
+*   [iAJue/qr](https://github.com/iAJue/qr) - QQ、支付宝、微信收款码三合一
+
+*   [Hackxiaoya/CuteOneP](https://github.com/Hackxiaoya/CuteOneP) - CuteOne的PHP版本，onedrive挂载程序；
+
+*   [WangNingkai/OLAINDEX](https://github.com/WangNingkai/OLAINDEX) - ✨ Another OneDrive Directory Index
+
+*   [5iux/sou](https://github.com/5iux/sou) - 简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。
+
+*   [magicblack/maccms10](https://github.com/magicblack/maccms10) - 苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序
+
+*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
+
+*   [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
+
+*   [ganlvtech/php-mfenc-decompiler](https://github.com/ganlvtech/php-mfenc-decompiler) - PHP mfenc Decompiler
+
 ## Svelte
 
 *   [NMTuan/maths](https://github.com/NMTuan/maths) - 加减法数学题生成器
@@ -1443,6 +1626,12 @@
 
 *   [Exrick/xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付
 
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+
+*   [szvone/Vmq](https://github.com/szvone/Vmq) - V免签 完全开源免费的个人免签约解决方案
+
+*   [szvone/vmqApk](https://github.com/szvone/vmqApk) - V免签监控端
+
 ## CSS
 
 *   [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora
@@ -1456,6 +1645,8 @@
 *   [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 
 *   [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
+
+*   [rosywrt/luci-theme-purple](https://github.com/rosywrt/luci-theme-purple) - Purple Theme for LuCI
 
 ## Smarty
 
@@ -1489,6 +1680,12 @@
 
 *   [primalmotion/SSHTunnel](https://github.com/primalmotion/SSHTunnel) - SSHTunnel is a Mac OS X app to make SSH tunneling easy
 
+*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
+
+*   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+
+*   [AsTryE/QQRedPackHelper](https://github.com/AsTryE/QQRedPackHelper) - Mac 系统下的QQ抢红包插件,消息防撤回，消息自动回复，红包指定群过滤，红包指定关键字过滤，无需回复-抢文字口令红包，时间随机延迟抢红包
+
 ## Vim Snippet
 
 *   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
@@ -1506,3 +1703,9 @@
 ## Perl
 
 *   [uparrows/LANraragi\_cn](https://github.com/uparrows/LANraragi_cn) - This repo is a fork of Difegue / LANraragi , those things i've done was to translate this repo into chinese ,and fix chrome browser js problem.
+
+## Blade
+
+*   [laravel-admin-extensions/api-tester](https://github.com/laravel-admin-extensions/api-tester) - API tester for laravel-admin
+
+*   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
