@@ -90,7 +90,7 @@
 
 *   [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 
 *   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 
@@ -1312,7 +1312,7 @@
 
 *   [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 
-*   [MrXiaoM/protocol-versions](https://github.com/MrXiaoM/protocol-versions) - QQ protocol versions. 8.9.58 - latest
+*   [MrXiaoM/protocol-versions](https://github.com/MrXiaoM/protocol-versions) - QQ protocol versions. 8.9.58 - latest, auto update everyday
 
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 
