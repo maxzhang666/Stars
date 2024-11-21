@@ -40,7 +40,6 @@
 *   [C](#c-2)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
-*   [Vim Snippet](#vim-snippet)
 *   [Vim Script](#vim-script)
 *   [MDX](#mdx)
 *   [Perl](#perl)
@@ -1324,6 +1323,8 @@
 
 *   [xiangfeidexiaohuo/ProxmoxVE-7.0-DIY](https://github.com/xiangfeidexiaohuo/ProxmoxVE-7.0-DIY) - Proxmox VE 7.x 换源、关掉订阅提示、直通、配置CPU模式、升降内核等相关教程。
 
+*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
+
 *   [tdragon6/Supershell](https://github.com/tdragon6/Supershell) - Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
 
 *   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -1685,10 +1686,6 @@
 *   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
 *   [AsTryE/QQRedPackHelper](https://github.com/AsTryE/QQRedPackHelper) - Mac 系统下的QQ抢红包插件,消息防撤回，消息自动回复，红包指定群过滤，红包指定关键字过滤，无需回复-抢文字口令红包，时间随机延迟抢红包
-
-## Vim Snippet
-
-*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 
 ## Vim Script
 
