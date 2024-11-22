@@ -683,7 +683,7 @@
 
 *   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台)
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 
@@ -1243,7 +1243,7 @@
 
 *   [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2024年系统架构设计师（软考高级）备考资料。
+*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
 
 *   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 
