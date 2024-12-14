@@ -137,7 +137,7 @@
 
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
 *   [youngle316/cover-paint](https://github.com/youngle316/cover-paint) - 🖌️ cover create tool
 
@@ -659,7 +659,7 @@
 
 *   [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - 可本地部署的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use RAG Chatbot. MaxKB 是一款基于大模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use, flexible RAG Chatbot. MaxKB 是基于大模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。
 
 *   [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 
@@ -935,7 +935,7 @@
 
 ## Go
 
-*   [opsre/WatchAlert](https://github.com/opsre/WatchAlert) - 🚀一款轻量级云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger、KubernetesEvent、ElasticSearch;
+*   [opsre/WatchAlert](https://github.com/opsre/WatchAlert) - 🚀一款轻量级云原生多数据源监控告警引擎，快来用它升级你们的监控系统架构吧！
 
 *   [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
 
@@ -965,7 +965,7 @@
 
 *   [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go.
 
-*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。
+*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 
