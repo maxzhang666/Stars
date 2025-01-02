@@ -985,7 +985,7 @@
 
 *   [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 
-*   [TheTNB/panel](https://github.com/TheTNB/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
+*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 
 *   [CodFrm/dns-kit](https://github.com/CodFrm/dns-kit) -
 
@@ -1033,7 +1033,7 @@
 
 *   [metatube-community/metatube-sdk-go](https://github.com/metatube-community/metatube-sdk-go) - MetaTube SDK & API Server in Golang
 
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - Grafana for visualization and Nightingale for alerting
 
 *   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
@@ -1183,7 +1183,7 @@
 
 *   [shibayan/Sharprompt](https://github.com/shibayan/Sharprompt) - Interactive command-line based application framework for C#
 
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 - UI Automation Testing Tools For Genshin Impact
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 自动音游 - UI Automation Testing Tools For Genshin Impact
 
 *   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili（B站）无人值守直播工具。自动登录，自动获取直播推流地址，自动推流（使用ffmpeg），可以用于电脑、树莓派等设备无人值守直播。
 
