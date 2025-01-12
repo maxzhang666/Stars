@@ -65,7 +65,7 @@
 
 *   [ViggoZ/json-translate](https://github.com/ViggoZ/json-translate) -
 
-*   [Orenoid/BabelDuck](https://github.com/Orenoid/BabelDuck) - 更适合新手的 AI 口语对话练习应用 / Beginner-friendly AI conversation practice application
+*   [Orenoid/BabelDuck](https://github.com/Orenoid/BabelDuck) - Beginner-friendly AI conversation practice application / 更适合新手的 AI 口语对话练习应用
 
 *   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
@@ -287,7 +287,7 @@
 
 *   [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 
 *   [easysoft/zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
 
@@ -753,7 +753,7 @@
 
 ## Java
 
-*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self hosted telegram file downloader.Provide continuous, stable and unattended downloading.
+*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 
 *   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 
