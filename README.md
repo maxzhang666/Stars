@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [Python](#python)
+*   [Java](#java)
 *   [C](#c)
 *   [PHP](#php)
 *   [TypeScript](#typescript)
@@ -46,49 +46,9 @@
 *   [Perl](#perl)
 *   [Blade](#blade)
 
-## Java
-
-*   [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。demo账号密码：admin123
-
-*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
-
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-
-*   [dromara/Jpom](https://github.com/dromara/Jpom) - 【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
-
-*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-
-*   [maxiaof/github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
-
-*   [Eanya-Tonic/CCTV\_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
-
-*   [whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock) - A Bot Framework based on Lsposed with OneBot11（停止维护/禁用于违法用途）
-
-*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
-
-*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-
-*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
-
-*   [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it can run on-premise or on-cloud.
-
-*   [tekord/idea-php-laravel-plugin](https://github.com/tekord/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
-
-*   [wgzhao/Addax](https://github.com/wgzhao/Addax) - Addax is a versatile open-source ETL tool that can seamlessly transfer data between various RDBMS and NoSQL databases, making it an ideal solution for data migration.
-
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-
-*   [CC11001100/mi-pu-killer](https://github.com/CC11001100/mi-pu-killer) - 免费使用米扑代理（已发布测试版本）
-
-*   [sonar-intellij-plugin/sonar-intellij-plugin](https://github.com/sonar-intellij-plugin/sonar-intellij-plugin) - This SonarQube community plugin is developed to support multiple languages and almost all Jetbrains IDEs. See the README for more details
-
-*   [Exrick/xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付
-
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-
 ## Python
+
+*   [codefuse-ai/CodeFuse-muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) - An Innovative Agent Framework Driven by KG Engine
 
 *   [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 
@@ -272,7 +232,7 @@
 
 *   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 
-*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
+*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 
 *   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
@@ -373,6 +333,48 @@
 *   [tylinux/hackintosh-ASUS-X570-Prime-Plus-3700x](https://github.com/tylinux/hackintosh-ASUS-X570-Prime-Plus-3700x) - Hackintosh bootloader configuration with OpenCore.
 
 *   [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl) - Musicdl: A lightweight music downloader written in pure python.
+
+## Java
+
+*   [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。demo账号密码：admin123
+
+*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+
+*   [dromara/Jpom](https://github.com/dromara/Jpom) - 【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
+
+*   [Liubsyy/JarEditor](https://github.com/Liubsyy/JarEditor) - IDEA plugin for directly editing and modifying files in jar without decompression. （一款无需解压直接编辑修改jar包内文件的IDEA插件）
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+
+*   [maxiaof/github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
+
+*   [Eanya-Tonic/CCTV\_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
+
+*   [whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock) - A Bot Framework based on Lsposed with OneBot11（停止维护/禁用于违法用途）
+
+*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+
+*   [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+
+*   [didi/KnowSearch](https://github.com/didi/KnowSearch) - 面向Elasticsearch研发与运维人员，围绕集群、索引构建的零侵入、多租户的Elasticsearch GUI管控平台
+
+*   [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it can run on-premise or on-cloud.
+
+*   [tekord/idea-php-laravel-plugin](https://github.com/tekord/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
+
+*   [wgzhao/Addax](https://github.com/wgzhao/Addax) - Addax is a versatile open-source ETL tool that can seamlessly transfer data between various RDBMS and NoSQL databases, making it an ideal solution for data migration.
+
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+
+*   [CC11001100/mi-pu-killer](https://github.com/CC11001100/mi-pu-killer) - 免费使用米扑代理（已发布测试版本）
+
+*   [sonar-intellij-plugin/sonar-intellij-plugin](https://github.com/sonar-intellij-plugin/sonar-intellij-plugin) - This SonarQube community plugin is developed to support multiple languages and almost all Jetbrains IDEs. See the README for more details
+
+*   [Exrick/xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付
+
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 
 ## C
 
@@ -990,8 +992,6 @@
 
 *   [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 
-*   [moshang-ax/react-demo](https://github.com/moshang-ax/react-demo) - React 官网示例实现 + 五子棋 + 简单文章发表 demo
-
 ## miscellaneous
 
 *   [axpwx/IP-Data](https://github.com/axpwx/IP-Data) - IDC & public cloud provider ip ranges
@@ -1216,7 +1216,7 @@
 
 *   [akile-network/akile\_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor
 
-*   [opsre/WatchAlert](https://github.com/opsre/WatchAlert) - 🚀一款轻量级云原生多数据源监控告警引擎，快来用它升级你们的监控系统架构吧！
+*   [opsre/WatchAlert](https://github.com/opsre/WatchAlert) - 🚀一款轻量级云原生多数据源监控告警引擎，快来用它升级你们的监控系统架构吧！帮忙点个免费的Star 😊~
 
 *   [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
 
