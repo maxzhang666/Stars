@@ -34,7 +34,6 @@
 *   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [Svelte](#svelte)
-*   [SCSS](#scss)
 *   [CSS](#css)
 *   [Smarty](#smarty)
 *   [Dockerfile](#dockerfile)
@@ -47,6 +46,8 @@
 *   [Blade](#blade)
 
 ## Python
+
+*   [sml2h3/dddd\_trainer](https://github.com/sml2h3/dddd_trainer) - ddddocr训练工具
 
 *   [codefuse-ai/CodeFuse-muAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) - An Innovative Agent Framework Driven by KG Engine
 
@@ -118,7 +119,7 @@
 
 *   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
 
-*   [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - MCP-supported AI agent framework for digital workers and vertical AI agents
+*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
 
 *   [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) - 快速提取音视频内容，整理成一份结构化的markdown笔记
 
@@ -696,7 +697,7 @@
 
 *   [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 
-*   [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library.
+*   [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 *   [food-billboard/create-chart](https://github.com/food-billboard/create-chart) - 基于Echarts的可视化数据大屏设计器（包含设计、预览、分享等全部流程）
 
@@ -990,8 +991,6 @@
 
 *   [SimonZhangITer/vue-typescript-dpapp-demo](https://github.com/SimonZhangITer/vue-typescript-dpapp-demo) - :fire: Let's start with TypeScript
 
-*   [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
-
 ## miscellaneous
 
 *   [axpwx/IP-Data](https://github.com/axpwx/IP-Data) - IDC & public cloud provider ip ranges
@@ -1153,6 +1152,8 @@
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
 *   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
 
 *   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
 
@@ -1635,10 +1636,6 @@
 *   [NMTuan/maths](https://github.com/NMTuan/maths) - 加减法数学题生成器
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-## SCSS
-
-*   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
 
 ## CSS
 
