@@ -119,7 +119,7 @@
 
 *   [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
 
-*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Task oriented AI agent framework for digital workers and vertical AI agents
 
 *   [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) - 快速提取音视频内容，整理成一份结构化的markdown笔记
 
