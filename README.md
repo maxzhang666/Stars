@@ -1367,7 +1367,7 @@
 
 *   [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
+*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代全能服务器运维管理面板。简单轻量，高效运维。
 
 *   [CodFrm/dns-kit](https://github.com/CodFrm/dns-kit) -
 
