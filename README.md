@@ -47,7 +47,7 @@
 
 ## JavaScript
 
-*   [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - A React-based smart home control panel that uses the Home Assistant Websocket API and supports deployment as a Home Assistant OS (HAOS) addon.
+*   [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - 一个基于React的智能家居控制面板，使用Home Assistant的Websocket API，并支持作为Home Assistant操作系统(HAOS)的插件部署。
 
 *   [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 
@@ -1367,7 +1367,7 @@
 
 *   [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代全能服务器运维管理面板。简单轻量，高效运维。
+*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [CodFrm/dns-kit](https://github.com/CodFrm/dns-kit) -
 
