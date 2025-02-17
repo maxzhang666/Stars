@@ -1363,7 +1363,7 @@
 
 *   [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 
-*   [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud OS: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+*   [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud OS: ⚡️Open-source RAG knowledge database with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
 
 *   [opentdp/tdp-cloud](https://github.com/opentdp/tdp-cloud) - 土豆片多云资源管理系统
 
