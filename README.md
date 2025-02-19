@@ -361,7 +361,7 @@
 
 *   [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具
 
-*   [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - 一个基于React的智能家居控制面板，使用Home Assistant的Websocket API，并支持作为Home Assistant操作系统(HAOS)的插件部署。
+*   [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - 一个基于React的智能家居控制面板，使用Home Assistant的Websocket API，并支持作为Home Assistant操作系统(HAOS)的插件部署。Homeassistant Panel.
 
 *   [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 
@@ -383,7 +383,7 @@
 
 *   [xianyunleo/EServer](https://github.com/xianyunleo/EServer) - Windows Mac平台下的一款集成Nginx、PHP、MySQL、Redis等服务的GUI集成环境
 
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 
 *   [shifu-group/inpaint\_wechat](https://github.com/shifu-group/inpaint_wechat) - 《照片修复小小助手》是一款基于微信AI能力的微信小程序，实现了图片选定区域的消除修复功能，纯客户端实现，无服务端。Inpaint\_wechat is a WeChat mini-program based on the WeChat AI capabilities, implementing the functionality of inpainting and repairing selected areas in images, which is purely implemented by the client and has no server.
 
