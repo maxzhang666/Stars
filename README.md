@@ -47,6 +47,8 @@
 
 ## TypeScript
 
+*   [HiveNexus/HiveChat](https://github.com/HiveNexus/HiveChat) - An AI chat bot for small and medium-sized teams, supporting models such as Deepseek, Open AI, Claude, and Gemini. 专为中小团队设计的 AI 聊天应用，支持 Deepseek、Open AI、Claude、Gemini 等模型。
+
 *   [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器
 
 *   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
@@ -109,7 +111,7 @@
 
 *   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 
-*   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
+*   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 
 *   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 
@@ -1479,7 +1481,7 @@
 
 ## Shell
 
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology web application firewall and API security protection product - UUSEC WAF. 一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品-南墙。Web应用防火墙、WAF、WAAP
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP)- UUSEC WAF.
 
 *   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
 
@@ -1520,8 +1522,6 @@
 *   [justmine66/MicroService.AutoDevOpsPipeLines](https://github.com/justmine66/MicroService.AutoDevOpsPipeLines) - Build a mature and stable automated DevOps pipeline with minimum learning cost, and continuously integrate/deploy AspnetCore micro-services to kubernetes.
 
 *   [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
-
-*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 
 ## PowerShell
 
