@@ -500,7 +500,7 @@
 
 ## C++
 
-*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) -
+*   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs
 
 *   [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
 
