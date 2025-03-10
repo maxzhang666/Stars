@@ -867,8 +867,6 @@
 
 *   [aMarCruz/rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup) - Rollup plugin to remove comments, trim trailing spaces, compact empty lines, and normalize line endings
 
-*   [yingye/rollup-plugin-banner](https://github.com/yingye/rollup-plugin-banner) - Rollup plugin to append content before js bundle.
-
 ## C\#
 
 *   [builtbybel/Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
@@ -1456,6 +1454,8 @@
 *   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 
 *   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+
+*   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
 
 *   [CoderOpen/waimai-cps](https://github.com/CoderOpen/waimai-cps) - 美团红包饿了么红包CPS小程序+H5+后端外卖红包应用，带有后台代码，安装超级简单
 
