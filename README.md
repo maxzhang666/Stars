@@ -384,7 +384,7 @@
 
 ## TypeScript
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short link generation, temporary mailbox, temporary chat room and subdomain management aggregation platform to release the potential of domain names. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short lin, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
 
 *   [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 
