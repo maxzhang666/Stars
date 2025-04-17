@@ -13,15 +13,15 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Rust](#rust)
 *   [Python](#python)
-*   [C](#c-1)
 *   [C#](#c-2)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
@@ -43,6 +43,26 @@
 *   [Vim Script](#vim-script)
 *   [MDX](#mdx)
 *   [Perl](#perl)
+
+## C
+
+*   [GuijiAI/HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) -
+
+*   [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) -
+
+*   [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
+
+*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [adonais/skylark](https://github.com/adonais/skylark) - Skylark Editor is written in C, a high performance text/hex editor.  Embedded Database-client/Redis-client/Lua-engine.  You can run Lua scripts and SQL files directly.
+
+*   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
+
+*   [hkrn/nanoem](https://github.com/hkrn/nanoem) - nanoem is an MMD (MikuMikuDance) compatible implementation and its like cross-platform application mainly built for macOS.
+
+*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 
 ## Java
 
@@ -119,6 +139,8 @@
 *   [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab) - 浏览器插件：OneTab、Toby、N-Tab、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab，Toby，N-Tab，KepTab...
 
 *   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 *   [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
 
@@ -436,8 +458,6 @@
 
 *   [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - 史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-
 *   [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 
 *   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
@@ -611,8 +631,6 @@
 *   [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 
 *   [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
-
-*   [nobitagit/material-floating-button](https://github.com/nobitagit/material-floating-button) - Vanilla Js Material design floating menu with action buttons.
 
 ## miscellaneous
 
@@ -990,7 +1008,7 @@
 
 *   [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - 可本地部署的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a powerful and easy-to-use AI assistant that integrates RAG pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
 
 *   [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 
@@ -1127,24 +1145,6 @@
 *   [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 
 *   [tylinux/hackintosh-ASUS-X570-Prime-Plus-3700x](https://github.com/tylinux/hackintosh-ASUS-X570-Prime-Plus-3700x) - Hackintosh bootloader configuration with OpenCore.
-
-## C
-
-*   [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) -
-
-*   [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
-
-*   [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [adonais/skylark](https://github.com/adonais/skylark) - Skylark Editor is written in C, a high performance text/hex editor.  Embedded Database-client/Redis-client/Lua-engine.  You can run Lua scripts and SQL files directly.
-
-*   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-
-*   [hkrn/nanoem](https://github.com/hkrn/nanoem) - nanoem is an MMD (MikuMikuDance) compatible implementation and its like cross-platform application mainly built for macOS.
-
-*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 
 ## C\#
 
