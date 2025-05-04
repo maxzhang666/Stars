@@ -19,6 +19,7 @@
 *   [C](#c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [templ](#templ)
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [Java](#java)
@@ -49,8 +50,6 @@
 ## miscellaneous
 
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
-
-*   [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
 
 *   [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。
 
@@ -662,7 +661,7 @@
 
 *   [teoxoy/factorio-blueprint-editor](https://github.com/teoxoy/factorio-blueprint-editor) - A feature-rich Factorio Blueprint Editor
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short link, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links with analytics, manage emails, create private chats, and control subdomains—all on one platform.
 
 *   [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 
@@ -1221,6 +1220,10 @@
 *   [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 
 *   [insoxin/weapp-qrpay](https://github.com/insoxin/weapp-qrpay) - 五合一收款码在线生成微信小程序版,35个模板 支持微信支付、支付宝支付、手机QQ支付、京东钱包、百度钱包,五合一收款，将其二维码合并为一个二维码，无需手续费,支持qq头像,昵称判断(HTML单页版多模板免安装) 腾讯云服务器 https://api.isoyu.com/qrpay/  腾讯云COS https://qrpay.isoyu.com/
+
+## templ
+
+*   [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore the limitless possibilities of OpenAI's GPT-4o image generation. GPT-4o生成图像与提示词精选集，探索OpenAI GPT-4o图像生成的无限可能性。
 
 ## HTML
 
