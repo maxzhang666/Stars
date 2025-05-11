@@ -48,6 +48,8 @@
 
 ## TypeScript
 
+*   [allinssl/allinssl](https://github.com/allinssl/allinssl) - ALLinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。ALLinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
+
 *   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
 *   [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) -  一款现代化的 Web SSH / RDP / VNC 客户端，支持人机验证、2FA、界面定制、操作审计等强大功能。
@@ -1104,8 +1106,6 @@
 
 *   [vcheckzen/FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 快速列表程序
 
-*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-
 ## C
 
 *   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (Pomodoro Clock).\[一款非常好用的计时器(🍅番茄时钟)]
@@ -1136,7 +1136,7 @@
 
 *   [HHsomeHand/pwa-corn-log](https://github.com/HHsomeHand/pwa-corn-log) - An awesome log app! A pwa program. You can access it via Github Pages! Easy Log & Easy Use!
 
-*   [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过植入广告。
+*   [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 
 *   [Dr-Ai-0018/Siliconflow-API-Management](https://github.com/Dr-Ai-0018/Siliconflow-API-Management) - 一个功能强大的API Key管理平台，不仅通过智能负载均衡算法自动选择可用API密钥，而且提供密钥有效性检测、管理、权限分享等功能实现。系统设计基于Cloudflare Worker脚本，部署简单，同时提供强大的可视化管理工具与全面的数据分析功能。
 
