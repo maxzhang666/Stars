@@ -685,7 +685,7 @@
 
 ## Vue
 
-*   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬表单
+*   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬轻表单
 
 *   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
 
