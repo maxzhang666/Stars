@@ -13,12 +13,12 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Roff](#roff)
 *   [Go](#go)
 *   [Vue](#vue)
-*   [Shell](#shell)
 *   [Python](#python)
 *   [C](#c)
 *   [JavaScript](#javascript)
@@ -46,6 +46,56 @@
 *   [MDX](#mdx)
 *   [Perl](#perl)
 *   [Blade](#blade)
+
+## Shell
+
+*   [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
+
+*   [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.5 beta
+
+*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [CikeyQi/unidbg-fetch-qsign-shell](https://github.com/CikeyQi/unidbg-fetch-qsign-shell) - Linux一键快速部署Qsign服务
+
+*   [2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install) - 幻兽帕鲁服务端一键安装脚本
+
+*   [jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Dedicated Server
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
+
+*   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
+
+*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+
+*   [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
+
+*   [bensuperpc/docker-sshd](https://github.com/bensuperpc/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
+
+*   [activeliang/wgcf-socks5-proxy](https://github.com/activeliang/wgcf-socks5-proxy) -
+
+*   [SuperManito/Arcadia](https://github.com/SuperManito/Arcadia) - 一站式代码运维平台
+
+*   [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
+
+*   [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
+
+*   [RayWangQvQ/naiveproxy-docker](https://github.com/RayWangQvQ/naiveproxy-docker) - naiveproxy in docker
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+*   [justmine66/MicroService.AutoDevOpsPipeLines](https://github.com/justmine66/MicroService.AutoDevOpsPipeLines) - Build a mature and stable automated DevOps pipeline with minimum learning cost, and continuously integrate/deploy AspnetCore micro-services to kubernetes.
+
+*   [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
+
+*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+*   [maxlicheng/luci-app-unblockmusic](https://github.com/maxlicheng/luci-app-unblockmusic) - 用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件 (openwrt/lede luci support for unblock neteasecloudmusic)
 
 ## miscellaneous
 
@@ -199,7 +249,7 @@
 
 *   [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 
-*   [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. 🚀
+*   [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
 
 *   [longbridge/feishu-pages](https://github.com/longbridge/feishu-pages) - Generate Feishu Wiki into a Markdown for work with Static Page Generators.
 
@@ -766,54 +816,6 @@
 *   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
 
 *   [Hanxueqing/Douban-Movie](https://github.com/Hanxueqing/Douban-Movie) - 使用Vue全家桶+Node.js搭建的小型全栈项目，项目文档：https://hanxueqing.github.io/Douban-Movie/
-
-## Shell
-
-*   [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.5 beta
-
-*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [CikeyQi/unidbg-fetch-qsign-shell](https://github.com/CikeyQi/unidbg-fetch-qsign-shell) - Linux一键快速部署Qsign服务
-
-*   [2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install) - 幻兽帕鲁服务端一键安装脚本
-
-*   [jammsen/docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Dedicated Server
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [zq99299/note-book](https://github.com/zq99299/note-book) - 新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。
-
-*   [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
-
-*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-
-*   [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
-
-*   [bensuperpc/docker-sshd](https://github.com/bensuperpc/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
-
-*   [activeliang/wgcf-socks5-proxy](https://github.com/activeliang/wgcf-socks5-proxy) -
-
-*   [SuperManito/Arcadia](https://github.com/SuperManito/Arcadia) - 一站式代码运维平台
-
-*   [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
-
-*   [panubo/docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
-
-*   [RayWangQvQ/naiveproxy-docker](https://github.com/RayWangQvQ/naiveproxy-docker) - naiveproxy in docker
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
-*   [justmine66/MicroService.AutoDevOpsPipeLines](https://github.com/justmine66/MicroService.AutoDevOpsPipeLines) - Build a mature and stable automated DevOps pipeline with minimum learning cost, and continuously integrate/deploy AspnetCore micro-services to kubernetes.
-
-*   [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
-
-*   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-*   [maxlicheng/luci-app-unblockmusic](https://github.com/maxlicheng/luci-app-unblockmusic) - 用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件 (openwrt/lede luci support for unblock neteasecloudmusic)
 
 ## Python
 
@@ -1446,8 +1448,6 @@
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 
 *   [szvone/Vmq](https://github.com/szvone/Vmq) - V免签 完全开源免费的个人免签约解决方案
-
-*   [szvone/vmqApk](https://github.com/szvone/vmqApk) - V免签监控端
 
 ## C++
 
