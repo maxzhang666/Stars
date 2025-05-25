@@ -311,7 +311,7 @@
 
 *   [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬轻表单（Vue3）
 
-*   [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) -  一款现代化的 Web SSH / RDP / VNC 客户端，支持人机验证、2FA、界面定制、操作审计等强大功能。
+*   [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) -  一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 
 *   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台桌宠 BongoCat，为桌面增添乐趣！
 
