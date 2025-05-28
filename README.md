@@ -1263,7 +1263,7 @@
 
 *   [halo-dev/docs](https://github.com/halo-dev/docs) - The open-source repo for docs.halo.run
 
-*   [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Embeddable remote browser security with safe source code https://dosaygo.com
+*   [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚 Secure remote browsing anywhere.
 
 *   [pschlan/cron-job.org](https://github.com/pschlan/cron-job.org) - cron-job.org Open Source project
 
