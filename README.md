@@ -225,9 +225,13 @@
 
 *   [yisol/IDM-VTON](https://github.com/yisol/IDM-VTON) - \[ECCV2024] IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+
 *   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 *   [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
+
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
@@ -475,7 +479,7 @@
 
 *   [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+*   [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 
 *   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 
@@ -574,8 +578,6 @@
 *   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
 *   [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 专注于记录和管理人情往来中的随礼、收礼、份子钱、礼金、心意、礼物、红包等，多维度查询和统计亲友间的往来记录，家人共享记账，你贴心的人情往来数字记账伙伴。
-
-*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 *   [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
 
@@ -787,7 +789,7 @@
 
 ## TypeScript
 
-*   [Nekohy/ctfile-downloader](https://github.com/Nekohy/ctfile-downloader) - 城通网盘破解限速-绕过线程限制
+*   [nekohy/ctfile-downloader](https://github.com/nekohy/ctfile-downloader) - 城通网盘破解限速-绕过线程限制
 
 *   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 
@@ -972,8 +974,6 @@
 *   [6174/comflowyspace](https://github.com/6174/comflowyspace) - Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
 
 *   [MiningCattiva/x-spider](https://github.com/MiningCattiva/x-spider) - A spider for X (Twitter)
-
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 *   [duan602728596/48tools](https://github.com/duan602728596/48tools) - 48工具，提供公演、口袋48直播录源，公演、口袋48录播下载，封面下载，B站直播抓取，B站视频下载，A站直播抓取，A站视频下载，抖音视频下载，视频截取，视频导出gif，视频合并等功能。口袋48的pc版，可以看成员的直播、弹幕和录播。
 
