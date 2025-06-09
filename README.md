@@ -51,7 +51,7 @@
 
 *   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
-*   [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API 支持参数转发设置，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，周更
+*   [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - 一个基于 Python + FastAPI + Playwright + Camoufox 的中间层代理服务器，兼容 OpenAI API 支持参数转发设置和toolcall等，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新
 
 *   [darkmatter2048/WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) - Windows Cleaner——专治C盘爆红及各种不服！
 
