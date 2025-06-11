@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Vue](#vue)
 *   [Python](#python)
 *   [Go](#go)
@@ -21,11 +22,10 @@
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Roff](#roff)
-*   [C](#c)
+*   [C](#c-1)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Java](#java)
-*   [C++](#c-1)
 *   [C#](#c-2)
 *   [Cuda](#cuda)
 *   [Kotlin](#kotlin)
@@ -46,6 +46,38 @@
 *   [MDX](#mdx)
 *   [Perl](#perl)
 *   [Blade](#blade)
+
+## C++
+
+*   [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+
+*   [RGAA-Software/GammaRay](https://github.com/RGAA-Software/GammaRay) - ⚡️Stream your games and desktop to other devices, and replay gamepad/keyboard/mouse events on the host PC
+
+*   [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
+
+*   [H3d9/sguard\_limit](https://github.com/H3d9/sguard_limit) - 限制ACE-Guard Client EXE占用系统资源，支持各种腾讯游戏
+
+*   [lanthora/candy](https://github.com/lanthora/candy) - A simple networking tool
+
+*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
+
+*   [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
+
+*   [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
+
+*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+
+*   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
 ## Vue
 
@@ -493,8 +525,6 @@
 
 *   [KusakabeShi/EtherGuard-VPN](https://github.com/KusakabeShi/EtherGuard-VPN) - Layer2 version of wireguard with Floyd Warshall implement in go.
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
 *   [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 
 *   [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
@@ -782,8 +812,6 @@
 *   [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) - maybe the best AdGuardHome luci for openwrt
 
 *   [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-*   [maxlicheng/luci-app-unblockmusic](https://github.com/maxlicheng/luci-app-unblockmusic) - 用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件 (openwrt/lede luci support for unblock neteasecloudmusic)
 
 ## TypeScript
 
@@ -1233,6 +1261,8 @@
 
 *   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
 *   [Charles7c/charles7c.github.io](https://github.com/Charles7c/charles7c.github.io) - （保持最新版 VitePress）基于 VitePress 构建的个人知识库/博客。扩展 VitePress 默认主题：增加ICP备案号、公安备案号显示，增加文章元数据信息（原创标识、作者、发布时间、分类、标签）显示，增加文末版权声明，增加 Gitalk 评论功能，主页美化、自动生成侧边栏、文章内支持 Mermaid 流程图、MD公式、MD脚注、增加我的标签、我的归档等独立页面，以及浏览器滚条等细节优化。查尔斯的个人技术知识库，记录 & 分享个人碎片化、结构化、体系化的技术知识内容。
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1478,36 +1508,6 @@
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 
 *   [szvone/Vmq](https://github.com/szvone/Vmq) - V免签 完全开源免费的个人免签约解决方案
-
-## C++
-
-*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-
-*   [RGAA-Software/GammaRay](https://github.com/RGAA-Software/GammaRay) - ⚡️Stream your games and desktop to other devices, and replay gamepad/keyboard/mouse events on the host PC
-
-*   [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
-
-*   [H3d9/sguard\_limit](https://github.com/H3d9/sguard_limit) - 限制ACE-Guard Client EXE占用系统资源，支持各种腾讯游戏
-
-*   [lanthora/candy](https://github.com/lanthora/candy) - A simple networking tool
-
-*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-
-*   [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用
-
-*   [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
-
-*   [lvtx/WinRAR-Extractor](https://github.com/lvtx/WinRAR-Extractor) - C# WinRAR 简体中文-商业版 提取器
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-
-*   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
 ## C\#
 
