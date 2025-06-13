@@ -1465,7 +1465,7 @@
 
 ## Java
 
-*   [moyangzhan/langchain4j-aideepin](https://github.com/moyangzhan/langchain4j-aideepin) - 基于AI的工作效率提升工具（聊天、绘画、知识库、工作流） | Ai-based productivity tools (Chat,Draw,RAG,Workflow etc)
+*   [moyangzhan/langchain4j-aideepin](https://github.com/moyangzhan/langchain4j-aideepin) - 基于AI的工作效率提升工具（聊天、绘画、知识库、工作流、 MCP服务市场） | Ai-based productivity tools (Chat,Draw,RAG,Workflow,MCP marketplace etc)
 
 *   [VonChange/utao](https://github.com/VonChange/utao) - 油桃TV 电视浏览器 可看各大卫视CCTV直播 无需电视VIP 适配爱奇艺等主流视频平台
 
