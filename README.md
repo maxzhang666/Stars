@@ -1445,7 +1445,7 @@
 
 ## C
 
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (Pomodoro Clock).\[一款非常好用的计时器(🍅番茄时钟)]
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
 
 *   [duixcom/Duix.Heygem](https://github.com/duixcom/Duix.Heygem) -
 
