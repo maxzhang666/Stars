@@ -471,7 +471,7 @@
 
 ## C++
 
-*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - An open-source game speed modifier.\[一款开源好用的游戏变速器🎮]
+*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - An open-source game speed modifier.\[一款开源的游戏变速器🎮]
 
 *   [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 
