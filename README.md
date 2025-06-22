@@ -315,7 +315,7 @@
 
 *   [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 
-*   [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
 *   [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server
 
@@ -479,7 +479,7 @@
 
 *   [RGAA-Software/GammaRay](https://github.com/RGAA-Software/GammaRay) - ⚡️Stream your games and desktop to other devices, and replay gamepad/keyboard/mouse events on the host PC
 
-*   [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
+*   [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器
 
 *   [H3d9/sguard\_limit](https://github.com/H3d9/sguard_limit) - 限制ACE-Guard Client EXE占用系统资源，支持各种腾讯游戏
 
