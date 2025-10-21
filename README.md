@@ -30,17 +30,17 @@
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
 *   [Lua](#lua)
-*   [Batchfile](#batchfile)
+*   [PowerShell](#powershell)
 *   [Standard ML](#standard-ml)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [Svelte](#svelte)
-*   [PowerShell](#powershell)
 *   [CSS](#css)
 *   [Smarty](#smarty)
 *   [Dockerfile](#dockerfile)
+*   [Batchfile](#batchfile)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 *   [Vim Script](#vim-script)
@@ -689,7 +689,7 @@
 
 *   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
-*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
+*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
 
 *   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 
@@ -1707,7 +1707,7 @@
 
 ## C
 
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A very useful timer (🍅Pomodoro Clock)
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💖A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).
 
 *   [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 
@@ -1759,15 +1759,13 @@
 
 *   [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf) - Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 
-## Batchfile
+## PowerShell
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
-*   [FongMi/Release](https://github.com/FongMi/Release) -
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
+*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 
 ## Standard ML
 
@@ -1855,12 +1853,6 @@
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
-## PowerShell
-
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-*   [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
-
 ## CSS
 
 *   [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
@@ -1888,6 +1880,14 @@
 *   [junalmeida/docker-mono-web](https://github.com/junalmeida/docker-mono-web) - Docker image to host full framework asp.net under mono and linux
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+## Batchfile
+
+*   [FongMi/Release](https://github.com/FongMi/Release) -
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
 
 ## Elixir
 
