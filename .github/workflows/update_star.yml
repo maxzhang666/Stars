@@ -1,25 +1,45 @@
-name: Update awesome list
+# name: Update awesome list
+
+# on:
+#   push:
+#     branches:
+#       - main
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 0 * * 1'
+#   watch:
+#     types: [started]
+    
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - name: Awesome generator
+#         # uses: simonecorsi/mawesome@latest
+#         uses: maxzhang666/simonecorsi-mawesome@main
+#         with:
+#           api-token: ${{ secrets.API_TOKEN }}
+#           github-email: ${{ secrets.USER_EMAIL }}
+#           template-path: "template/README.ejs"
+#           github-name: ${{ github.repository_owner }}
+
+name: Update Stars
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 1'
-  watch:
-    types: [started]
-    
+    - cron: '17 3 * * *'      # 每天 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write # 被调用工作流不能自行提权，必须写在这里
+
 jobs:
   build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Awesome generator
-        # uses: simonecorsi/mawesome@latest
-        uses: maxzhang666/simonecorsi-mawesome@main
-        with:
-          api-token: ${{ secrets.API_TOKEN }}
-          github-email: ${{ secrets.USER_EMAIL }}
-          template-path: "template/README.ejs"
-          github-name: ${{ github.repository_owner }}
+    uses: maxzhang666/OpsStar/.github/workflows/sync.yml@main
+    with:
+      actor: maxzhang666
+      title: Stars
+      desc: 我 star 过的 GitHub 仓库
+      lang: zh-CN
+      branch: gh-pages
