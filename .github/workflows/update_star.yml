@@ -36,10 +36,11 @@ permissions:
 
 jobs:
   build:
-    uses: maxzhang666/OpsStar/.github/workflows/sync.yml@main
-    with:
-      actor: maxzhang666
-      title: Stars
-      desc: 我 star 过的 GitHub 仓库
-      lang: zh-CN
+    runs-on: ubuntu-latest
+    steps:
+      - uses: maxzhang666/OpsStar@main
+        with:
+          actor: maxzhang666
+          title: Stars
+          branch: gh-pages
       branch: gh-pages
