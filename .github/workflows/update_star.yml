@@ -42,5 +42,6 @@ jobs:
         with:
           actor: maxzhang666
           title: Stars
+          desc: 我 star 过的 GitHub 仓库
+          lang: zh-CN
           branch: gh-pages
-      branch: gh-pages
