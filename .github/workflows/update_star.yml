@@ -38,7 +38,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: maxzhang666/OpsStar@main
+      # - uses: maxzhang666/OpsStar@main
+      - uses: OpsUniverses/OpsStar@main
         with:
           actor: maxzhang666
           title: Stars
